@@ -1,0 +1,1244 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ABSPRI	ev.c	/^# define ABSPRI(/;"	d	file:
+ALL	ev++.h	/^    ALL = EVBREAK_ALL$/;"	e	enum:ev::how_t
+ANFD	ev.c	/^} ANFD;$/;"	t	typeref:struct:__anon4	file:
+ANFS	ev.c	/^} ANFS;$/;"	t	typeref:struct:__anon6	file:
+ANHE	ev.c	/^  typedef WT ANHE;$/;"	t	file:
+ANHE	ev.c	/^  } ANHE;$/;"	t	typeref:struct:__anon7	file:
+ANHE_at	ev.c	/^  #define ANHE_at(/;"	d	file:
+ANHE_at_cache	ev.c	/^  #define ANHE_at_cache(/;"	d	file:
+ANHE_w	ev.c	/^  #define ANHE_w(/;"	d	file:
+ANPENDING	ev.c	/^} ANPENDING;$/;"	t	typeref:struct:__anon5	file:
+ANSIG	ev.c	/^} ANSIG;$/;"	t	typeref:struct:__anon8	file:
+ASYNC	ev++.h	/^    ASYNC    = EV_ASYNC,$/;"	e	enum:ev::__anon1
+AUTO	ev++.h	/^    AUTO      = EVFLAG_AUTO,$/;"	e	enum:ev::__anon2
+CHECK	ev++.h	/^    CHECK    = EV_CHECK,$/;"	e	enum:ev::__anon1
+CHILD	ev++.h	/^    CHILD    = EV_CHILD,$/;"	e	enum:ev::__anon1
+CreateProcess	ltmain.sh	/^   CreateProcess().  We must quote the arguments since Win32 CreateProcess()$/;"	f
+DEF_STAT_INTERVAL	ev.c	/^#define DEF_STAT_INTERVAL /;"	d	file:
+DEVPOLL	ev++.h	/^    DEVPOLL   = EVBACKEND_DEVPOLL,$/;"	e	enum:ev::__anon2
+DHEAP	ev.c	/^#define DHEAP /;"	d	file:
+ECB_AMD64	ev.c	/^    #define ECB_AMD64 /;"	d	file:
+ECB_AMD64_X32	ev.c	/^    #define ECB_AMD64_X32 /;"	d	file:
+ECB_C	ev.c	/^  #define ECB_C /;"	d	file:
+ECB_C11	ev.c	/^#define ECB_C11 /;"	d	file:
+ECB_C99	ev.c	/^#define ECB_C99 /;"	d	file:
+ECB_CONCAT	ev.c	/^#define ECB_CONCAT(/;"	d	file:
+ECB_CONCAT_	ev.c	/^#define ECB_CONCAT_(/;"	d	file:
+ECB_CPP	ev.c	/^#define ECB_CPP /;"	d	file:
+ECB_CPP11	ev.c	/^#define ECB_CPP11 /;"	d	file:
+ECB_EXTERN_C	ev.c	/^  #define ECB_EXTERN_C /;"	d	file:
+ECB_EXTERN_C_BEG	ev.c	/^  #define ECB_EXTERN_C_BEG /;"	d	file:
+ECB_EXTERN_C_BEG	ev.c	/^  #define ECB_EXTERN_C_BEG$/;"	d	file:
+ECB_EXTERN_C_END	ev.c	/^  #define ECB_EXTERN_C_END /;"	d	file:
+ECB_EXTERN_C_END	ev.c	/^  #define ECB_EXTERN_C_END$/;"	d	file:
+ECB_GCC_VERSION	ev.c	/^    #define ECB_GCC_VERSION(/;"	d	file:
+ECB_H	ev.c	/^#define ECB_H$/;"	d	file:
+ECB_INFINITY	ev.c	/^    #define ECB_INFINITY /;"	d	file:
+ECB_MEMORY_FENCE	ev.c	/^      #define ECB_MEMORY_FENCE /;"	d	file:
+ECB_MEMORY_FENCE	ev.c	/^    #define ECB_MEMORY_FENCE /;"	d	file:
+ECB_MEMORY_FENCE	ev.c	/^  #define ECB_MEMORY_FENCE /;"	d	file:
+ECB_MEMORY_FENCE	ev.c	/^# define ECB_MEMORY_FENCE /;"	d	file:
+ECB_MEMORY_FENCE_ACQUIRE	ev.c	/^      #define ECB_MEMORY_FENCE_ACQUIRE /;"	d	file:
+ECB_MEMORY_FENCE_ACQUIRE	ev.c	/^    #define ECB_MEMORY_FENCE_ACQUIRE /;"	d	file:
+ECB_MEMORY_FENCE_ACQUIRE	ev.c	/^  #define ECB_MEMORY_FENCE_ACQUIRE /;"	d	file:
+ECB_MEMORY_FENCE_ACQUIRE	ev.c	/^# define ECB_MEMORY_FENCE_ACQUIRE /;"	d	file:
+ECB_MEMORY_FENCE_NEEDS_PTHREADS	ev.c	/^    #define ECB_MEMORY_FENCE_NEEDS_PTHREADS /;"	d	file:
+ECB_MEMORY_FENCE_RELEASE	ev.c	/^      #define ECB_MEMORY_FENCE_RELEASE /;"	d	file:
+ECB_MEMORY_FENCE_RELEASE	ev.c	/^    #define ECB_MEMORY_FENCE_RELEASE /;"	d	file:
+ECB_MEMORY_FENCE_RELEASE	ev.c	/^  #define ECB_MEMORY_FENCE_RELEASE /;"	d	file:
+ECB_MEMORY_FENCE_RELEASE	ev.c	/^# define ECB_MEMORY_FENCE_RELEASE /;"	d	file:
+ECB_NAN	ev.c	/^    #define ECB_NAN /;"	d	file:
+ECB_NEEDS_PTHREADS	ev.c	/^    #define ECB_NEEDS_PTHREADS /;"	d	file:
+ECB_NO_SMP	ev.c	/^  #define ECB_NO_SMP /;"	d	file:
+ECB_NO_SMP	ev.c	/^# define ECB_NO_SMP /;"	d	file:
+ECB_NO_THREADS	ev.c	/^# define ECB_NO_THREADS /;"	d	file:
+ECB_NO_THREADS	ev.c	/^# undef ECB_NO_THREADS$/;"	d	file:
+ECB_PTRSIZE	ev.c	/^    #define ECB_PTRSIZE /;"	d	file:
+ECB_STDC_VERSION	ev.c	/^  #define ECB_STDC_VERSION /;"	d	file:
+ECB_STDFP	ev.c	/^  #define ECB_STDFP /;"	d	file:
+ECB_STRINGIFY	ev.c	/^#define ECB_STRINGIFY(/;"	d	file:
+ECB_STRINGIFY_	ev.c	/^#define ECB_STRINGIFY_(/;"	d	file:
+ECB_VERSION	ev.c	/^#define ECB_VERSION /;"	d	file:
+EFD_CLOEXEC	ev.c	/^#   define EFD_CLOEXEC /;"	d	file:
+EFD_NONBLOCK	ev.c	/^#  define EFD_NONBLOCK /;"	d	file:
+EMBED	ev++.h	/^    EMBED    = EV_EMBED,$/;"	e	enum:ev::__anon1
+EMPTY	ev.c	/^#define EMPTY /;"	d	file:
+EMPTY2	ev.c	/^#define EMPTY2(/;"	d	file:
+EPOLL	ev++.h	/^    EPOLL     = EVBACKEND_EPOLL,$/;"	e	enum:ev::__anon2
+ERROR	ev++.h	/^    ERROR    = EV_ERROR$/;"	e	enum:ev::__anon1
+ERROR	ev++.h	/^#   undef ERROR /;"	d
+EVBACKEND_ALL	ev.h	/^  EVBACKEND_ALL     = 0x0000003FU, \/* all known backends *\/$/;"	e	enum:__anon11
+EVBACKEND_DEVPOLL	ev.h	/^  EVBACKEND_DEVPOLL = 0x00000010U, \/* solaris 8 *\/ \/* NYI *\/$/;"	e	enum:__anon11
+EVBACKEND_EPOLL	ev.h	/^  EVBACKEND_EPOLL   = 0x00000004U, \/* linux *\/$/;"	e	enum:__anon11
+EVBACKEND_KQUEUE	ev.h	/^  EVBACKEND_KQUEUE  = 0x00000008U, \/* bsd *\/$/;"	e	enum:__anon11
+EVBACKEND_MASK	ev.h	/^  EVBACKEND_MASK    = 0x0000FFFFU  \/* all future backends *\/$/;"	e	enum:__anon11
+EVBACKEND_POLL	ev.h	/^  EVBACKEND_POLL    = 0x00000002U, \/* !win *\/$/;"	e	enum:__anon11
+EVBACKEND_PORT	ev.h	/^  EVBACKEND_PORT    = 0x00000020U, \/* solaris 10 *\/$/;"	e	enum:__anon11
+EVBACKEND_SELECT	ev.h	/^  EVBACKEND_SELECT  = 0x00000001U, \/* about anywhere *\/$/;"	e	enum:__anon11
+EVBREAK_ALL	ev.h	/^  EVBREAK_ALL    = 2  \/* unloop all loops *\/$/;"	e	enum:__anon13
+EVBREAK_CANCEL	ev.h	/^  EVBREAK_CANCEL = 0, \/* undo unloop *\/$/;"	e	enum:__anon13
+EVBREAK_ONE	ev.h	/^  EVBREAK_ONE    = 1, \/* unloop once *\/$/;"	e	enum:__anon13
+EVBREAK_RECURSE	ev.c	/^#define EVBREAK_RECURSE /;"	d	file:
+EVENT_FD	event.h	/^#define EVENT_FD(/;"	d
+EVENT_H_	event.h	/^#define EVENT_H_$/;"	d
+EVENT_SIGNAL	event.h	/^#define EVENT_SIGNAL(/;"	d
+EVENT_STRINGIFY	event.c	/^#define EVENT_STRINGIFY(/;"	d	file:
+EVENT_VERSION	event.c	/^#define EVENT_VERSION(/;"	d	file:
+EVFLAG_AUTO	ev.h	/^  EVFLAG_AUTO      = 0x00000000U, \/* not quite a mask *\/$/;"	e	enum:__anon10
+EVFLAG_FORKCHECK	ev.h	/^  EVFLAG_FORKCHECK = 0x02000000U, \/* check for a fork in each iteration *\/$/;"	e	enum:__anon10
+EVFLAG_NOENV	ev.h	/^  EVFLAG_NOENV     = 0x01000000U, \/* do NOT consult environment *\/$/;"	e	enum:__anon10
+EVFLAG_NOINOTIFY	ev.h	/^  EVFLAG_NOINOTIFY = 0x00100000U, \/* do not attempt to use inotify *\/$/;"	e	enum:__anon10
+EVFLAG_NOSIGFD	ev.h	/^  EVFLAG_NOSIGFD   = 0, \/* compatibility to pre-3.9 *\/$/;"	e	enum:__anon10
+EVFLAG_NOSIGMASK	ev.h	/^  EVFLAG_NOSIGMASK = 0x00400000U  \/* avoid modifying the signal mask *\/$/;"	e	enum:__anon10
+EVFLAG_SIGNALFD	ev.h	/^  EVFLAG_SIGNALFD  = 0x00200000U, \/* attempt to use signalfd *\/$/;"	e	enum:__anon10
+EVLIST_ACTIVE	event.h	/^#define EVLIST_ACTIVE /;"	d
+EVLIST_INIT	event.h	/^#define EVLIST_INIT /;"	d
+EVLIST_INSERTED	event.h	/^#define EVLIST_INSERTED /;"	d
+EVLIST_INTERNAL	event.h	/^#define EVLIST_INTERNAL /;"	d
+EVLIST_SIGNAL	event.h	/^#define EVLIST_SIGNAL /;"	d
+EVLIST_TIMEOUT	event.h	/^#define EVLIST_TIMEOUT /;"	d
+EVLOOP_NONBLOCK	ev.h	/^  #define EVLOOP_NONBLOCK /;"	d
+EVLOOP_NONBLOCK	event.h	/^# define EVLOOP_NONBLOCK /;"	d
+EVLOOP_ONCE	event.h	/^#define EVLOOP_ONCE /;"	d
+EVLOOP_ONESHOT	ev.h	/^  #define EVLOOP_ONESHOT /;"	d
+EVLOOP_ONESHOT	event.h	/^# define EVLOOP_ONESHOT /;"	d
+EVPP_H__	ev++.h	/^#define EVPP_H__$/;"	d
+EVRUN_NOWAIT	ev.h	/^  EVRUN_NOWAIT = 1, \/* do not block\/wait *\/$/;"	e	enum:__anon12
+EVRUN_ONCE	ev.h	/^  EVRUN_ONCE   = 2  \/* block *once* only *\/$/;"	e	enum:__anon12
+EVUNLOOP_ALL	ev.h	/^  #define EVUNLOOP_ALL /;"	d
+EVUNLOOP_CANCEL	ev.h	/^  #define EVUNLOOP_CANCEL /;"	d
+EVUNLOOP_ONE	ev.h	/^  #define EVUNLOOP_ONE /;"	d
+EV_A	ev.h	/^# define EV_A /;"	d
+EV_A	ev.h	/^# define EV_A$/;"	d
+EV_ACQUIRE_CB	ev.c	/^# define EV_ACQUIRE_CB /;"	d	file:
+EV_ANFD_REIFY	ev.c	/^#define EV_ANFD_REIFY /;"	d	file:
+EV_API_DECL	ev.h	/^# define EV_API_DECL /;"	d
+EV_ASYNC	ev.h	/^  EV_ASYNC    =      0x00080000, \/* async intra-loop signal *\/$/;"	e	enum:__anon9
+EV_ASYNC_ENABLE	ev.h	/^# define EV_ASYNC_ENABLE /;"	d
+EV_ATOMIC_T	ev.h	/^# define EV_ATOMIC_T /;"	d
+EV_AVOID_STDIO	ev.c	/^# undef EV_AVOID_STDIO$/;"	d	file:
+EV_AX	ev++.h	/^    struct ev_loop* EV_AX;$/;"	m	struct:ev::loop_ref	typeref:struct:ev::loop_ref::ev_loop
+EV_AX	ev++.h	/^#  define EV_AX /;"	d
+EV_AX	ev++.h	/^#  define EV_AX$/;"	d
+EV_AX	ev++.h	/^#  undef EV_AX$/;"	d
+EV_AX	ev++.h	/^#undef EV_AX$/;"	d
+EV_AX_	ev++.h	/^#  define EV_AX_ /;"	d
+EV_AX_	ev++.h	/^#  define EV_AX_$/;"	d
+EV_AX_	ev++.h	/^#  undef EV_AX_$/;"	d
+EV_AX_	ev++.h	/^#undef EV_AX_$/;"	d
+EV_A_	ev.h	/^# define EV_A_ /;"	d
+EV_A_	ev.h	/^# define EV_A_$/;"	d
+EV_BEGIN_WATCHER	ev++.h	/^  #define EV_BEGIN_WATCHER(/;"	d
+EV_BEGIN_WATCHER	ev++.h	/^  #undef EV_BEGIN_WATCHER$/;"	d
+EV_CB	ev.h	/^#define EV_CB(/;"	d
+EV_CB_DECLARE	ev.h	/^# define EV_CB_DECLARE(/;"	d
+EV_CB_INVOKE	ev.h	/^# define EV_CB_INVOKE(/;"	d
+EV_CHECK	ev.h	/^  EV_CHECK    =      0x00008000, \/* event loop finished poll *\/$/;"	e	enum:__anon9
+EV_CHECK_ENABLE	ev.h	/^# define EV_CHECK_ENABLE /;"	d
+EV_CHILD	ev.h	/^  EV_CHILD    =      0x00000800, \/* child\/pid had status change *\/$/;"	e	enum:__anon9
+EV_CHILD_ENABLE	ev.h	/^#  define EV_CHILD_ENABLE /;"	d
+EV_CLEANUP	ev.h	/^  EV_CLEANUP  =      0x00040000, \/* event loop resumed in child *\/$/;"	e	enum:__anon9
+EV_CLEANUP_ENABLE	ev.h	/^# define EV_CLEANUP_ENABLE /;"	d
+EV_COMMON	ev.h	/^# define EV_COMMON /;"	d
+EV_COMPAT3	ev.h	/^# define EV_COMPAT3 /;"	d
+EV_CONSTRUCT	ev++.h	/^    #define EV_CONSTRUCT(/;"	d
+EV_CONSTRUCT	ev++.h	/^  #undef EV_CONSTRUCT$/;"	d
+EV_CPP	ev.h	/^# define EV_CPP(/;"	d
+EV_CUSTOM	ev.h	/^  EV_CUSTOM   =      0x01000000, \/* for use by user code *\/$/;"	e	enum:__anon9
+EV_DECL_PRIORITY	ev.h	/^# define EV_DECL_PRIORITY /;"	d
+EV_DECL_PRIORITY	ev.h	/^# define EV_DECL_PRIORITY$/;"	d
+EV_DEFAULT	ev.h	/^# define EV_DEFAULT /;"	d
+EV_DEFAULT	ev.h	/^# define EV_DEFAULT$/;"	d
+EV_DEFAULT_	ev.h	/^# define EV_DEFAULT_ /;"	d
+EV_DEFAULT_	ev.h	/^# define EV_DEFAULT_$/;"	d
+EV_DEFAULT_UC	ev.h	/^# define EV_DEFAULT_UC /;"	d
+EV_DEFAULT_UC	ev.h	/^# define EV_DEFAULT_UC$/;"	d
+EV_DEFAULT_UC_	ev.h	/^# define EV_DEFAULT_UC_ /;"	d
+EV_DEFAULT_UC_	ev.h	/^# define EV_DEFAULT_UC_$/;"	d
+EV_EMASK_EPERM	ev_epoll.c	/^#define EV_EMASK_EPERM /;"	d	file:
+EV_EMBED	ev.h	/^  EV_EMBED    =      0x00010000, \/* embedded event loop needs sweep *\/$/;"	e	enum:__anon9
+EV_EMBED_ENABLE	ev.h	/^# define EV_EMBED_ENABLE /;"	d
+EV_EMBED_ENABLE	ev.h	/^# undef EV_EMBED_ENABLE$/;"	d
+EV_ENABLE	ev_kqueue.c	/^# define EV_ENABLE /;"	d	file:
+EV_END_WATCHER	ev++.h	/^  #define EV_END_WATCHER(/;"	d
+EV_END_WATCHER	ev++.h	/^  #undef EV_END_WATCHER$/;"	d
+EV_ERROR	ev.h	/^  EV_ERROR    = (int)0x80000000  \/* sent when an error occurs *\/$/;"	e	enum:__anon9
+EV_ERROR	ev_kqueue.c	/^#undef EV_ERROR$/;"	d	file:
+EV_ET	event.h	/^#define EV_ET /;"	d
+EV_FD_TO_WIN32_HANDLE	ev.c	/^# define EV_FD_TO_WIN32_HANDLE(/;"	d	file:
+EV_FEATURES	ev.h	/^#  define EV_FEATURES /;"	d
+EV_FEATURE_API	ev.h	/^#define EV_FEATURE_API /;"	d
+EV_FEATURE_BACKENDS	ev.h	/^#define EV_FEATURE_BACKENDS /;"	d
+EV_FEATURE_CODE	ev.h	/^#define EV_FEATURE_CODE /;"	d
+EV_FEATURE_CONFIG	ev.h	/^#define EV_FEATURE_CONFIG /;"	d
+EV_FEATURE_DATA	ev.h	/^#define EV_FEATURE_DATA /;"	d
+EV_FEATURE_OS	ev.h	/^#define EV_FEATURE_OS /;"	d
+EV_FEATURE_WATCHERS	ev.h	/^#define EV_FEATURE_WATCHERS /;"	d
+EV_FORK	ev.h	/^  EV_FORK     =      0x00020000, \/* event loop resumed in child *\/$/;"	e	enum:__anon9
+EV_FORK_ENABLE	ev.h	/^# define EV_FORK_ENABLE /;"	d
+EV_FREQUENT_CHECK	ev.c	/^# define EV_FREQUENT_CHECK /;"	d	file:
+EV_HAVE_EV_TIME	ev_win32.c	/^#define EV_HAVE_EV_TIME /;"	d	file:
+EV_HEAP_CACHE_AT	ev.c	/^# define EV_HEAP_CACHE_AT /;"	d	file:
+EV_H_	ev.h	/^#define EV_H_$/;"	d
+EV_IDLE	ev.h	/^  EV_IDLE     =      0x00002000, \/* event loop is idling *\/$/;"	e	enum:__anon9
+EV_IDLE_ENABLE	ev.h	/^# define EV_IDLE_ENABLE /;"	d
+EV_INLINE	ev.h	/^# define EV_INLINE /;"	d
+EV_INOTIFY_BUFSIZE	ev.c	/^# define EV_INOTIFY_BUFSIZE /;"	d	file:
+EV_INOTIFY_HASHSIZE	ev.c	/^# define EV_INOTIFY_HASHSIZE /;"	d	file:
+EV_INVOKE_PENDING	ev.c	/^# define EV_INVOKE_PENDING /;"	d	file:
+EV_IO	ev.h	/^  EV_IO       =         EV_READ, \/* alias for type-detection *\/$/;"	e	enum:__anon9
+EV_LSTAT	ev.c	/^# define EV_LSTAT(/;"	d	file:
+EV_MAXPRI	ev.h	/^# define EV_MAXPRI /;"	d
+EV_MINPRI	ev.h	/^# define EV_MINPRI /;"	d
+EV_MULTIPLICITY	ev.h	/^# define EV_MULTIPLICITY /;"	d
+EV_NONE	ev.h	/^  EV_NONE     =            0x00, \/* no events *\/$/;"	e	enum:__anon9
+EV_NO_SMP	ev.c	/^# define EV_NO_SMP /;"	d	file:
+EV_NO_SMP	ev.c	/^# undef EV_NO_SMP$/;"	d	file:
+EV_NSIG	ev.c	/^# define EV_NSIG /;"	d	file:
+EV_P	ev.c	/^  EV_P;$/;"	m	struct:__anon8	file:
+EV_P	ev.h	/^# define EV_P /;"	d
+EV_PERIODIC	ev.h	/^  EV_PERIODIC =      0x00000200, \/* periodic timer timed out *\/$/;"	e	enum:__anon9
+EV_PERIODIC_ENABLE	ev.h	/^# define EV_PERIODIC_ENABLE /;"	d
+EV_PERSIST	event.h	/^#define EV_PERSIST /;"	d
+EV_PID_HASHSIZE	ev.c	/^# define EV_PID_HASHSIZE /;"	d	file:
+EV_PREPARE	ev.h	/^  EV_PREPARE  =      0x00004000, \/* event loop about to poll *\/$/;"	e	enum:__anon9
+EV_PREPARE_ENABLE	ev.h	/^# define EV_PREPARE_ENABLE /;"	d
+EV_PROTOTYPES	ev.h	/^# define EV_PROTOTYPES /;"	d
+EV_PX	ev++.h	/^      EV_PX;$/;"	m	struct:ev::base
+EV_PX	ev++.h	/^  #undef EV_PX$/;"	d
+EV_PX	ev++.h	/^#  define EV_PX /;"	d
+EV_PX	ev++.h	/^#  define EV_PX$/;"	d
+EV_PX	ev++.h	/^#undef EV_PX$/;"	d
+EV_PX_	ev++.h	/^  #undef EV_PX_$/;"	d
+EV_PX_	ev++.h	/^#  define EV_PX_ /;"	d
+EV_PX_	ev++.h	/^#  define EV_PX_$/;"	d
+EV_PX_	ev++.h	/^#undef EV_PX_$/;"	d
+EV_P_	ev.h	/^# define EV_P_ /;"	d
+EV_P_	ev.h	/^# define EV_P_$/;"	d
+EV_READ	ev.h	/^  EV_READ     =            0x01, \/* ev_io detected read will not block *\/$/;"	e	enum:__anon9
+EV_READ	event.h	/^#define EV_READ /;"	d
+EV_RELEASE_CB	ev.c	/^# define EV_RELEASE_CB /;"	d	file:
+EV_SELECT_IS_WINSOCKET	ev.c	/^#  define EV_SELECT_IS_WINSOCKET /;"	d	file:
+EV_SELECT_USE_FD_SET	ev_select.c	/^#  define EV_SELECT_USE_FD_SET /;"	d	file:
+EV_SELECT_USE_FD_SET	ev_select.c	/^# define EV_SELECT_USE_FD_SET /;"	d	file:
+EV_SELECT_USE_FD_SET	ev_select.c	/^# undef EV_SELECT_USE_FD_SET$/;"	d	file:
+EV_SIGNAL	ev.h	/^  EV_SIGNAL   =      0x00000400, \/* signal was received *\/$/;"	e	enum:__anon9
+EV_SIGNAL_ENABLE	ev.h	/^# define EV_SIGNAL_ENABLE /;"	d
+EV_SIGNAL_ENABLE	ev.h	/^# undef EV_SIGNAL_ENABLE$/;"	d
+EV_STAT	ev.h	/^  EV_STAT     =      0x00001000, \/* stat data changed *\/$/;"	e	enum:__anon9
+EV_STAT_ENABLE	ev.h	/^# define EV_STAT_ENABLE /;"	d
+EV_THROW	ev.h	/^  ev_tstamp (*reschedule_cb)(struct ev_periodic *w, ev_tstamp now) EV_THROW; \/* rw *\/$/;"	m	struct:ev_periodic
+EV_THROW	ev.h	/^#define EV_THROW /;"	d
+EV_TIMEOUT	ev.h	/^  EV_TIMEOUT  =        EV_TIMER, \/* pre 4.0 API compatibility *\/$/;"	e	enum:__anon9
+EV_TIMEOUT	event.h	/^# define EV_TIMEOUT /;"	d
+EV_TIMER	ev.h	/^  EV_TIMER    =      0x00000100, \/* timer timed out *\/$/;"	e	enum:__anon9
+EV_TS_SET	ev.c	/^#define EV_TS_SET(/;"	d	file:
+EV_TV_SET	ev.c	/^#define EV_TV_SET(/;"	d	file:
+EV_UNDEF	ev.h	/^  EV_UNDEF    = (int)0xFFFFFFFF, \/* guaranteed to be invalid *\/$/;"	e	enum:__anon9
+EV_USE_4HEAP	ev.c	/^# define EV_USE_4HEAP /;"	d	file:
+EV_USE_CLOCK_SYSCALL	ev.c	/^#   define EV_USE_CLOCK_SYSCALL /;"	d	file:
+EV_USE_CLOCK_SYSCALL	ev.c	/^#  define EV_USE_CLOCK_SYSCALL /;"	d	file:
+EV_USE_CLOCK_SYSCALL	ev.c	/^#  undef EV_USE_CLOCK_SYSCALL$/;"	d	file:
+EV_USE_CLOCK_SYSCALL	ev.c	/^# define EV_USE_CLOCK_SYSCALL /;"	d	file:
+EV_USE_CLOCK_SYSCALL	ev.c	/^# undef EV_USE_CLOCK_SYSCALL$/;"	d	file:
+EV_USE_EPOLL	ev.c	/^#   define EV_USE_EPOLL /;"	d	file:
+EV_USE_EPOLL	ev.c	/^#  define EV_USE_EPOLL /;"	d	file:
+EV_USE_EPOLL	ev.c	/^#  undef EV_USE_EPOLL$/;"	d	file:
+EV_USE_EVENTFD	ev.c	/^#   define EV_USE_EVENTFD /;"	d	file:
+EV_USE_EVENTFD	ev.c	/^#  define EV_USE_EVENTFD /;"	d	file:
+EV_USE_EVENTFD	ev.c	/^#  undef EV_USE_EVENTFD$/;"	d	file:
+EV_USE_FLOOR	ev.c	/^#   define EV_USE_FLOOR /;"	d	file:
+EV_USE_FLOOR	ev.c	/^# define EV_USE_FLOOR /;"	d	file:
+EV_USE_INOTIFY	ev.c	/^#   define EV_USE_INOTIFY /;"	d	file:
+EV_USE_INOTIFY	ev.c	/^#  define EV_USE_INOTIFY /;"	d	file:
+EV_USE_INOTIFY	ev.c	/^#  undef EV_USE_INOTIFY$/;"	d	file:
+EV_USE_INOTIFY	ev.c	/^# define EV_USE_INOTIFY /;"	d	file:
+EV_USE_INOTIFY	ev.c	/^# undef EV_USE_INOTIFY$/;"	d	file:
+EV_USE_KQUEUE	ev.c	/^#   define EV_USE_KQUEUE /;"	d	file:
+EV_USE_KQUEUE	ev.c	/^#  define EV_USE_KQUEUE /;"	d	file:
+EV_USE_KQUEUE	ev.c	/^#  undef EV_USE_KQUEUE$/;"	d	file:
+EV_USE_KQUEUE	ev.c	/^# define EV_USE_KQUEUE /;"	d	file:
+EV_USE_MONOTONIC	ev.c	/^#    define EV_USE_MONOTONIC /;"	d	file:
+EV_USE_MONOTONIC	ev.c	/^#   define EV_USE_MONOTONIC /;"	d	file:
+EV_USE_MONOTONIC	ev.c	/^#  define EV_USE_MONOTONIC /;"	d	file:
+EV_USE_MONOTONIC	ev.c	/^#  undef EV_USE_MONOTONIC$/;"	d	file:
+EV_USE_MONOTONIC	ev.c	/^# define EV_USE_MONOTONIC /;"	d	file:
+EV_USE_MONOTONIC	ev.c	/^# undef EV_USE_MONOTONIC$/;"	d	file:
+EV_USE_NANOSLEEP	ev.c	/^#    define EV_USE_NANOSLEEP /;"	d	file:
+EV_USE_NANOSLEEP	ev.c	/^#   define EV_USE_NANOSLEEP /;"	d	file:
+EV_USE_NANOSLEEP	ev.c	/^#   undef EV_USE_NANOSLEEP$/;"	d	file:
+EV_USE_NANOSLEEP	ev.c	/^#  define EV_USE_NANOSLEEP /;"	d	file:
+EV_USE_POLL	ev.c	/^#   define EV_USE_POLL /;"	d	file:
+EV_USE_POLL	ev.c	/^#  define EV_USE_POLL /;"	d	file:
+EV_USE_POLL	ev.c	/^#  undef EV_USE_POLL$/;"	d	file:
+EV_USE_POLL	ev.c	/^# define EV_USE_POLL /;"	d	file:
+EV_USE_POLL	ev.c	/^# undef EV_USE_POLL$/;"	d	file:
+EV_USE_PORT	ev.c	/^#   define EV_USE_PORT /;"	d	file:
+EV_USE_PORT	ev.c	/^#  define EV_USE_PORT /;"	d	file:
+EV_USE_PORT	ev.c	/^#  undef EV_USE_PORT$/;"	d	file:
+EV_USE_PORT	ev.c	/^# define EV_USE_PORT /;"	d	file:
+EV_USE_REALTIME	ev.c	/^#    define EV_USE_REALTIME /;"	d	file:
+EV_USE_REALTIME	ev.c	/^#   define EV_USE_REALTIME /;"	d	file:
+EV_USE_REALTIME	ev.c	/^#  define EV_USE_REALTIME /;"	d	file:
+EV_USE_REALTIME	ev.c	/^# define EV_USE_REALTIME /;"	d	file:
+EV_USE_REALTIME	ev.c	/^# undef EV_USE_REALTIME$/;"	d	file:
+EV_USE_SELECT	ev.c	/^#   define EV_USE_SELECT /;"	d	file:
+EV_USE_SELECT	ev.c	/^#  define EV_USE_SELECT /;"	d	file:
+EV_USE_SELECT	ev.c	/^#  undef EV_USE_SELECT$/;"	d	file:
+EV_USE_SELECT	ev.c	/^# define EV_USE_SELECT /;"	d	file:
+EV_USE_SELECT	ev.c	/^# undef EV_USE_SELECT$/;"	d	file:
+EV_USE_SIGNALFD	ev.c	/^#   define EV_USE_SIGNALFD /;"	d	file:
+EV_USE_SIGNALFD	ev.c	/^#  define EV_USE_SIGNALFD /;"	d	file:
+EV_USE_SIGNALFD	ev.c	/^#  undef EV_USE_SIGNALFD$/;"	d	file:
+EV_USE_STDEXCEPT	ev++.h	/^# define EV_USE_STDEXCEPT /;"	d
+EV_VERIFY	ev.c	/^# define EV_VERIFY /;"	d	file:
+EV_VERSION_MAJOR	ev.h	/^#define EV_VERSION_MAJOR /;"	d
+EV_VERSION_MINOR	ev.h	/^#define EV_VERSION_MINOR /;"	d
+EV_WALK_ENABLE	ev.h	/^# define EV_WALK_ENABLE /;"	d
+EV_WATCHER	ev.h	/^#define EV_WATCHER(/;"	d
+EV_WATCHER_LIST	ev.h	/^#define EV_WATCHER_LIST(/;"	d
+EV_WATCHER_TIME	ev.h	/^#define EV_WATCHER_TIME(/;"	d
+EV_WIN32_CLOSE_FD	ev.c	/^# define EV_WIN32_CLOSE_FD(/;"	d	file:
+EV_WIN32_HANDLE_TO_FD	ev.c	/^# define EV_WIN32_HANDLE_TO_FD(/;"	d	file:
+EV_WRAP_H	ev_wrap.h	/^#define EV_WRAP_H$/;"	d
+EV_WRAP_H	ev_wrap.h	/^#undef EV_WRAP_H$/;"	d
+EV_WRITE	ev.h	/^  EV_WRITE    =            0x02, \/* ev_io detected write will not block *\/$/;"	e	enum:__anon9
+EV_WRITE	event.h	/^#define EV_WRITE /;"	d
+EV__IOFDSET	ev.h	/^  EV__IOFDSET =            0x80, \/* internal use only *\/$/;"	e	enum:__anon9
+FORK	ev++.h	/^    FORK     = EV_FORK,$/;"	e	enum:ev::__anon1
+FORKCHECK	ev++.h	/^    FORKCHECK = EVFLAG_FORKCHECK,$/;"	e	enum:ev::__anon2
+HEAP0	ev.c	/^#define HEAP0 /;"	d	file:
+HPARENT	ev.c	/^#define HPARENT(/;"	d	file:
+IDLE	ev++.h	/^    IDLE     = EV_IDLE,$/;"	e	enum:ev::__anon1
+KQUEUE	ev++.h	/^    KQUEUE    = EVBACKEND_KQUEUE,$/;"	e	enum:ev::__anon2
+MALLOC_ROUND	ev.c	/^#define MALLOC_ROUND /;"	d	file:
+MAX_BLOCKTIME	ev.c	/^#define MAX_BLOCKTIME /;"	d	file:
+MIN_INTERVAL	ev.c	/^#define MIN_INTERVAL /;"	d	file:
+MIN_STAT_INTERVAL	ev.c	/^#define MIN_STAT_INTERVAL /;"	d	file:
+MIN_TIMEJUMP	ev.c	/^#define MIN_TIMEJUMP /;"	d	file:
+NFDBITS	ev_select.c	/^# define NFDBITS /;"	d	file:
+NFDBITS	ev_select.c	/^# undef NFDBITS$/;"	d	file:
+NFDBYTES	ev_select.c	/^# define NFDBYTES /;"	d	file:
+NFS_STAT_INTERVAL	ev.c	/^#define NFS_STAT_INTERVAL /;"	d	file:
+NOENV	ev++.h	/^    NOENV     = EVFLAG_NOENV,$/;"	e	enum:ev::__anon2
+NONBLOCK	ev++.h	/^    NONBLOCK = EVLOOP_NONBLOCK,$/;"	e	enum:ev::__anon3
+NONE	ev++.h	/^    NONE     = EV_NONE,$/;"	e	enum:ev::__anon1
+NOTE_EOF	ev_kqueue.c	/^# define NOTE_EOF /;"	d	file:
+NOWAIT	ev++.h	/^    NOWAIT   = EVRUN_NOWAIT,$/;"	e	enum:ev::__anon3
+NUMPRI	ev.c	/^#define NUMPRI /;"	d	file:
+ONCE	ev++.h	/^    ONCE     = EVRUN_ONCE$/;"	e	enum:ev::__anon3
+ONE	ev++.h	/^    ONE = EVBREAK_ONE,$/;"	e	enum:ev::how_t
+ONESHOT	ev++.h	/^    ONESHOT  = EVLOOP_ONESHOT,$/;"	e	enum:ev::__anon3
+PERIODIC	ev++.h	/^    PERIODIC = EV_PERIODIC,$/;"	e	enum:ev::__anon1
+POLL	ev++.h	/^    POLL      = EVBACKEND_POLL,$/;"	e	enum:ev::__anon2
+PORT	ev++.h	/^    PORT      = EVBACKEND_PORT$/;"	e	enum:ev::__anon2
+PREPARE	ev++.h	/^    PREPARE  = EV_PREPARE,$/;"	e	enum:ev::__anon1
+READ	ev++.h	/^    READ     = EV_READ,$/;"	e	enum:ev::__anon1
+SA_RESTART	ev.c	/^# define SA_RESTART /;"	d	file:
+SELECT	ev++.h	/^    SELECT    = EVBACKEND_SELECT,$/;"	e	enum:ev::__anon2
+SFD_CLOEXEC	ev.c	/^#   define SFD_CLOEXEC /;"	d	file:
+SFD_NONBLOCK	ev.c	/^#  define SFD_NONBLOCK /;"	d	file:
+SIGFPE_REQ	ev_win32.c	/^volatile double SIGFPE_REQ = 0.0f;$/;"	v
+SIGNAL	ev++.h	/^    SIGNAL   = EV_SIGNAL,$/;"	e	enum:ev::__anon1
+STAT	ev++.h	/^    STAT     = EV_STAT,$/;"	e	enum:ev::__anon1
+T	ev.c	/^  template<typename T, int N>$/;"	v
+TIMEOUT	ev++.h	/^    TIMEOUT  = EV_TIMEOUT,$/;"	e	enum:ev::__anon1
+TIMER	ev++.h	/^    TIMER    = EV_TIMER,$/;"	e	enum:ev::__anon1
+UNDEF	ev++.h	/^    UNDEF    = EV_UNDEF,$/;"	e	enum:ev::__anon1
+UPHEAP_DONE	ev.c	/^#define UPHEAP_DONE(/;"	d	file:
+VAR	ev.c	/^    #define VAR(/;"	d	file:
+VAR	ev.c	/^    #undef VAR$/;"	d	file:
+VAR	ev.c	/^  #define VAR(/;"	d	file:
+VAR	ev.c	/^  #undef VAR$/;"	d	file:
+VARx	ev_vars.h	/^#define VARx(/;"	d
+VARx	ev_vars.h	/^#undef VARx$/;"	d
+W	ev.c	/^typedef ev_watcher *W;$/;"	t	file:
+WCONTINUED	ev.c	/^# define WCONTINUED /;"	d	file:
+WIFCONTINUED	ev.c	/^# define WIFCONTINUED(/;"	d	file:
+WIN32_LEAN_AND_MEAN	ev.c	/^# define WIN32_LEAN_AND_MEAN$/;"	d	file:
+WL	ev.c	/^typedef ev_watcher_list *WL;$/;"	t	file:
+WRITE	ev++.h	/^    WRITE    = EV_WRITE,$/;"	e	enum:ev::__anon1
+WT	ev.c	/^typedef ev_watcher_time *WT;$/;"	t	file:
+_DARWIN_UNLIMITED_SELECT	ev.c	/^#define _DARWIN_UNLIMITED_SELECT /;"	d	file:
+_EVENT_LOG_DEBUG	event.h	/^#define _EVENT_LOG_DEBUG /;"	d
+_EVENT_LOG_ERR	event.h	/^#define _EVENT_LOG_ERR /;"	d
+_EVENT_LOG_MSG	event.h	/^#define _EVENT_LOG_MSG /;"	d
+_EVENT_LOG_WARN	event.h	/^#define _EVENT_LOG_WARN /;"	d
+ac_fn_c_check_func	configure	/^ac_fn_c_check_func ()$/;"	f
+ac_fn_c_check_header_compile	configure	/^ac_fn_c_check_header_compile ()$/;"	f
+ac_fn_c_check_header_mongrel	configure	/^ac_fn_c_check_header_mongrel ()$/;"	f
+ac_fn_c_try_compile	configure	/^ac_fn_c_try_compile ()$/;"	f
+ac_fn_c_try_cpp	configure	/^ac_fn_c_try_cpp ()$/;"	f
+ac_fn_c_try_link	configure	/^ac_fn_c_try_link ()$/;"	f
+ac_fn_c_try_run	configure	/^ac_fn_c_try_run ()$/;"	f
+acquire_cb	ev_wrap.h	/^#define acquire_cb /;"	d
+acquire_cb	ev_wrap.h	/^#undef acquire_cb$/;"	d
+activecnt	ev_wrap.h	/^#define activecnt /;"	d
+activecnt	ev_wrap.h	/^#undef activecnt$/;"	d
+adjustheap	ev.c	/^adjustheap (ANHE *heap, int N, int k)$/;"	f
+again	ev++.h	/^    void again () throw ()$/;"	f	namespace:ev
+anfdmax	ev_wrap.h	/^#define anfdmax /;"	d
+anfdmax	ev_wrap.h	/^#undef anfdmax$/;"	d
+anfds	ev_wrap.h	/^#define anfds /;"	d
+anfds	ev_wrap.h	/^#undef anfds$/;"	d
+arg	ev.c	/^  void *arg;$/;"	m	struct:ev_once	file:
+arg	event.c	/^  void *arg;$/;"	m	struct:ev_x_once	file:
+array_free	ev.c	/^#define array_free(/;"	d	file:
+array_init_zero	ev.c	/^#define array_init_zero(/;"	d	file:
+array_needsize	ev.c	/^#define array_needsize(/;"	d	file:
+array_nextsize	ev.c	/^array_nextsize (int elem, int cur, int cnt)$/;"	f
+array_realloc	ev.c	/^array_realloc (int elem, void *base, int *cur, int cnt)$/;"	f	file:
+array_verify	ev.c	/^array_verify (EV_P_ W *ws, int cnt)$/;"	f	file:
+as_fn_append	configure	/^  as_fn_append ()$/;"	f
+as_fn_arith	configure	/^  as_fn_arith ()$/;"	f
+as_fn_error	configure	/^as_fn_error ()$/;"	f
+as_fn_executable_p	configure	/^as_fn_executable_p ()$/;"	f
+as_fn_exit	configure	/^as_fn_exit ()$/;"	f
+as_fn_failure	configure	/^as_fn_failure () { as_fn_return 1; }$/;"	f
+as_fn_mkdir_p	configure	/^as_fn_mkdir_p ()$/;"	f
+as_fn_ret_failure	configure	/^as_fn_ret_failure () { return 1; }$/;"	f
+as_fn_ret_success	configure	/^as_fn_ret_success () { return 0; }$/;"	f
+as_fn_set_status	configure	/^as_fn_set_status ()$/;"	f
+as_fn_success	configure	/^as_fn_success () { as_fn_return 0; }$/;"	f
+as_fn_unset	configure	/^as_fn_unset ()$/;"	f
+async	ev.h	/^  struct ev_async async;$/;"	m	union:ev_any_watcher	typeref:struct:ev_any_watcher::ev_async
+async_pending	ev++.h	/^    bool async_pending () throw ()$/;"	f	namespace:ev
+async_pending	ev_wrap.h	/^#define async_pending /;"	d
+async_pending	ev_wrap.h	/^#undef async_pending$/;"	d
+asynccnt	ev_wrap.h	/^#define asynccnt /;"	d
+asynccnt	ev_wrap.h	/^#undef asynccnt$/;"	d
+asyncmax	ev_wrap.h	/^#define asyncmax /;"	d
+asyncmax	ev_wrap.h	/^#undef asyncmax$/;"	d
+asyncs	ev_wrap.h	/^#define asyncs /;"	d
+asyncs	ev_wrap.h	/^#undef asyncs$/;"	d
+at	ev.c	/^    ev_tstamp at;$/;"	m	struct:__anon7	file:
+attr	ev.h	/^  ev_statdata attr;   \/* ro *\/$/;"	m	struct:ev_stat
+backend	ev++.h	/^    unsigned int backend () const throw ()$/;"	f	struct:ev::loop_ref
+backend	ev_wrap.h	/^#define backend /;"	d
+backend	ev_wrap.h	/^#undef backend$/;"	d
+backend_fd	ev_wrap.h	/^#define backend_fd /;"	d
+backend_fd	ev_wrap.h	/^#undef backend_fd$/;"	d
+backend_mintime	ev_wrap.h	/^#define backend_mintime /;"	d
+backend_mintime	ev_wrap.h	/^#undef backend_mintime$/;"	d
+backend_modify	ev_wrap.h	/^#define backend_modify /;"	d
+backend_modify	ev_wrap.h	/^#undef backend_modify$/;"	d
+backend_poll	ev_wrap.h	/^#define backend_poll /;"	d
+backend_poll	ev_wrap.h	/^#undef backend_poll$/;"	d
+bad_loop	ev++.h	/^    bad_loop ()$/;"	f	struct:ev::bad_loop
+bad_loop	ev++.h	/^  struct bad_loop$/;"	s	namespace:ev
+base	ev++.h	/^    base (EV_PX) throw ()$/;"	f	struct:ev::base
+base	ev++.h	/^  struct base : ev_watcher$/;"	s	namespace:ev
+break_loop	ev++.h	/^    void break_loop (how_t how = ONE) throw ()$/;"	f	struct:ev::loop_ref
+cb	ev.c	/^  void (*cb)(int revents, void *arg);$/;"	m	struct:ev_once	file:
+cb	event.c	/^  void (*cb)(int, short, void *);$/;"	m	struct:ev_x_once	file:
+check	ev.h	/^  ev_check check;        \/* unused *\/$/;"	m	struct:ev_embed
+check	ev.h	/^  struct ev_check check;$/;"	m	union:ev_any_watcher	typeref:struct:ev_any_watcher::ev_check
+checkcnt	ev_wrap.h	/^#define checkcnt /;"	d
+checkcnt	ev_wrap.h	/^#undef checkcnt$/;"	d
+checkmax	ev_wrap.h	/^#define checkmax /;"	d
+checkmax	ev_wrap.h	/^#undef checkmax$/;"	d
+checks	ev_wrap.h	/^#define checks /;"	d
+checks	ev_wrap.h	/^#undef checks$/;"	d
+child	ev.h	/^  struct ev_child child;$/;"	m	union:ev_any_watcher	typeref:struct:ev_any_watcher::ev_child
+child_reap	ev.c	/^child_reap (EV_P_ int chain, int pid, int status)$/;"	f
+childcb	ev.c	/^childcb (EV_P_ ev_signal *sw, int revents)$/;"	f	file:
+childev	ev.c	/^static ev_signal childev;$/;"	v	file:
+childs	ev.c	/^static WL childs [EV_PID_HASHSIZE];$/;"	v	file:
+cleanup	ev.h	/^  ev_cleanup cleanup;    \/* unused *\/$/;"	m	struct:ev_embed
+cleanup	ev.h	/^  struct ev_cleanup cleanup;$/;"	m	union:ev_any_watcher	typeref:struct:ev_any_watcher::ev_cleanup
+cleanupcnt	ev_wrap.h	/^#define cleanupcnt /;"	d
+cleanupcnt	ev_wrap.h	/^#undef cleanupcnt$/;"	d
+cleanupmax	ev_wrap.h	/^#define cleanupmax /;"	d
+cleanupmax	ev_wrap.h	/^#undef cleanupmax$/;"	d
+cleanups	ev_wrap.h	/^#define cleanups /;"	d
+cleanups	ev_wrap.h	/^#undef cleanups$/;"	d
+clear_pending	ev.c	/^clear_pending (EV_P_ W w)$/;"	f
+clock_gettime	ev.c	/^#  define clock_gettime(/;"	d	file:
+curpid	ev_wrap.h	/^#define curpid /;"	d
+curpid	ev_wrap.h	/^#undef curpid$/;"	d
+dLOOPbase	event.c	/^# define dLOOPbase /;"	d	file:
+dLOOPbase	event.c	/^# define dLOOPbase$/;"	d	file:
+dLOOPev	event.c	/^# define dLOOPev /;"	d	file:
+dLOOPev	event.c	/^# define dLOOPev$/;"	d	file:
+default_loop	ev++.h	/^    default_loop (unsigned int flags = AUTO) throw (bad_loop)$/;"	f	struct:ev::default_loop
+default_loop	ev++.h	/^  struct default_loop : loop_ref$/;"	s	namespace:ev
+default_loop_struct	ev.c	/^  static struct ev_loop default_loop_struct;$/;"	v	typeref:struct:ev_loop	file:
+delay	ev++.h	/^  inline void delay (tstamp interval) throw ()$/;"	f	namespace:ev
+depth	ev++.h	/^    unsigned int depth () const throw ()$/;"	f	struct:ev::loop_ref
+downheap	ev.c	/^downheap (ANHE *heap, int N, int k)$/;"	f
+dummy	event.c	/^  int dummy;$/;"	m	struct:event_base	file:
+dynamic_loop	ev++.h	/^    dynamic_loop (unsigned int flags = AUTO) throw (bad_loop)$/;"	f	struct:ev::dynamic_loop
+dynamic_loop	ev++.h	/^  struct dynamic_loop : loop_ref$/;"	s	namespace:ev
+ecb_array_length	ev.c	/^  #define ecb_array_length(/;"	d	file:
+ecb_artificial	ev.c	/^  #define ecb_artificial /;"	d	file:
+ecb_artificial	ev.c	/^  #define ecb_artificial$/;"	d	file:
+ecb_assume	ev.c	/^#define ecb_assume(/;"	d	file:
+ecb_attribute	ev.c	/^  #define ecb_attribute(/;"	d	file:
+ecb_big_endian	ev.c	/^ecb_inline ecb_bool ecb_big_endian    (void) { return ecb_byteorder_helper () == 0x11; }$/;"	f
+ecb_binary16_to_float	ev.c	/^  ecb_binary16_to_float (uint16_t x)$/;"	f
+ecb_binary32_to_float	ev.c	/^  ecb_binary32_to_float (uint32_t x)$/;"	f
+ecb_binary64_to_double	ev.c	/^  ecb_binary64_to_double (uint64_t x)$/;"	f
+ecb_bitrev16	ev.c	/^ecb_function_ uint16_t ecb_bitrev16 (uint16_t x)$/;"	f
+ecb_bitrev32	ev.c	/^ecb_function_ uint32_t ecb_bitrev32 (uint32_t x)$/;"	f
+ecb_bitrev8	ev.c	/^ecb_function_ uint8_t  ecb_bitrev8  (uint8_t  x)$/;"	f
+ecb_bool	ev.c	/^typedef int ecb_bool;$/;"	t	file:
+ecb_bswap16	ev.c	/^  #define ecb_bswap16(/;"	d	file:
+ecb_bswap16	ev.c	/^  ecb_bswap16 (uint16_t x)$/;"	f
+ecb_bswap32	ev.c	/^  #define ecb_bswap32(/;"	d	file:
+ecb_bswap32	ev.c	/^  ecb_bswap32 (uint32_t x)$/;"	f
+ecb_bswap64	ev.c	/^  #define ecb_bswap64(/;"	d	file:
+ecb_bswap64	ev.c	/^  ecb_bswap64 (uint64_t x)$/;"	f
+ecb_byteorder_helper	ev.c	/^ecb_byteorder_helper (void)$/;"	f
+ecb_cold	ev.c	/^  #define ecb_cold /;"	d	file:
+ecb_cold	ev.c	/^  #define ecb_cold$/;"	d	file:
+ecb_const	ev.c	/^#define ecb_const /;"	d	file:
+ecb_ctz32	ev.c	/^  #define ecb_ctz32(/;"	d	file:
+ecb_ctz32	ev.c	/^  ecb_ctz32 (uint32_t x)$/;"	f
+ecb_ctz64	ev.c	/^  #define ecb_ctz64(/;"	d	file:
+ecb_ctz64	ev.c	/^  ecb_ctz64 (uint64_t x)$/;"	f
+ecb_decltype	ev.c	/^  #define ecb_decltype(/;"	d	file:
+ecb_deprecated	ev.c	/^  #define ecb_deprecated /;"	d	file:
+ecb_div_rd	ev.c	/^  #define ecb_div_rd(/;"	d	file:
+ecb_div_rd	ev.c	/^  static inline T ecb_div_rd (T val, T div)$/;"	f	file:
+ecb_div_ru	ev.c	/^  #define ecb_div_ru(/;"	d	file:
+ecb_div_ru	ev.c	/^  static inline T ecb_div_ru (T val, T div)$/;"	f	file:
+ecb_double_to_binary64	ev.c	/^  ecb_double_to_binary64 (double x)$/;"	f
+ecb_expect	ev.c	/^  #define ecb_expect(/;"	d	file:
+ecb_expect_false	ev.c	/^#define ecb_expect_false(/;"	d	file:
+ecb_expect_true	ev.c	/^#define ecb_expect_true(/;"	d	file:
+ecb_float_to_binary32	ev.c	/^  ecb_float_to_binary32 (float x)$/;"	f
+ecb_function_	ev.c	/^#define ecb_function_ /;"	d	file:
+ecb_hot	ev.c	/^  #define ecb_hot /;"	d	file:
+ecb_hot	ev.c	/^  #define ecb_hot$/;"	d	file:
+ecb_inline	ev.c	/^  #define ecb_inline /;"	d	file:
+ecb_is_constant	ev.c	/^  #define ecb_is_constant(/;"	d	file:
+ecb_is_pot32	ev.c	/^ecb_function_ ecb_bool ecb_is_pot32 (uint32_t x) { return !(x & (x - 1)); }$/;"	f
+ecb_is_pot64	ev.c	/^ecb_function_ ecb_bool ecb_is_pot64 (uint64_t x) { return !(x & (x - 1)); }$/;"	f
+ecb_ld32	ev.c	/^  #define ecb_ld32(/;"	d	file:
+ecb_ld32	ev.c	/^  ecb_function_ int ecb_ld32 (uint32_t x)$/;"	f
+ecb_ld64	ev.c	/^  #define ecb_ld64(/;"	d	file:
+ecb_ld64	ev.c	/^  ecb_function_ int ecb_ld64 (uint64_t x)$/;"	f
+ecb_likely	ev.c	/^#define ecb_likely(/;"	d	file:
+ecb_little_endian	ev.c	/^ecb_inline ecb_bool ecb_little_endian (void) { return ecb_byteorder_helper () == 0x44; }$/;"	f
+ecb_mf_lock	ev.c	/^    static pthread_mutex_t ecb_mf_lock = PTHREAD_MUTEX_INITIALIZER;$/;"	v	file:
+ecb_mod	ev.c	/^  #define ecb_mod(/;"	d	file:
+ecb_noinline	ev.c	/^#define ecb_noinline /;"	d	file:
+ecb_noreturn	ev.c	/^  #define ecb_noreturn /;"	d	file:
+ecb_popcount32	ev.c	/^  #define ecb_popcount32(/;"	d	file:
+ecb_popcount32	ev.c	/^  ecb_popcount32 (uint32_t x)$/;"	f
+ecb_popcount64	ev.c	/^ecb_popcount64 (uint64_t x)$/;"	f
+ecb_prefetch	ev.c	/^  #define ecb_prefetch(/;"	d	file:
+ecb_pure	ev.c	/^#define ecb_pure /;"	d	file:
+ecb_restrict	ev.c	/^  #define ecb_restrict /;"	d	file:
+ecb_restrict	ev.c	/^  #define ecb_restrict$/;"	d	file:
+ecb_rotl16	ev.c	/^ecb_inline uint16_t ecb_rotl16 (uint16_t x, unsigned int count) { return (x >> (16 - count)) | (x << count); }$/;"	f
+ecb_rotl32	ev.c	/^ecb_inline uint32_t ecb_rotl32 (uint32_t x, unsigned int count) { return (x >> (32 - count)) | (x << count); }$/;"	f
+ecb_rotl64	ev.c	/^ecb_inline uint64_t ecb_rotl64 (uint64_t x, unsigned int count) { return (x >> (64 - count)) | (x << count); }$/;"	f
+ecb_rotl8	ev.c	/^ecb_inline uint8_t  ecb_rotl8  (uint8_t  x, unsigned int count) { return (x >> ( 8 - count)) | (x << count); }$/;"	f
+ecb_rotr16	ev.c	/^ecb_inline uint16_t ecb_rotr16 (uint16_t x, unsigned int count) { return (x << (16 - count)) | (x >> count); }$/;"	f
+ecb_rotr32	ev.c	/^ecb_inline uint32_t ecb_rotr32 (uint32_t x, unsigned int count) { return (x << (32 - count)) | (x >> count); }$/;"	f
+ecb_rotr64	ev.c	/^ecb_inline uint64_t ecb_rotr64 (uint64_t x, unsigned int count) { return (x << (64 - count)) | (x >> count); }$/;"	f
+ecb_rotr8	ev.c	/^ecb_inline uint8_t  ecb_rotr8  (uint8_t  x, unsigned int count) { return (x << ( 8 - count)) | (x >> count); }$/;"	f
+ecb_unlikely	ev.c	/^#define ecb_unlikely(/;"	d	file:
+ecb_unreachable	ev.c	/^  #define ecb_unreachable(/;"	d	file:
+ecb_unreachable	ev.c	/^  ecb_inline void ecb_unreachable (void) { }$/;"	f
+ecb_unused	ev.c	/^#define ecb_unused /;"	d	file:
+egen	ev.c	/^  unsigned int egen;    \/* generation counter to counter epoll bugs *\/$/;"	m	struct:__anon4	file:
+emask	ev.c	/^  unsigned char emask;  \/* the epoll backend stores the actual kernel mask in here *\/$/;"	m	struct:__anon4	file:
+embed	ev.h	/^  struct ev_embed embed;$/;"	m	union:ev_any_watcher	typeref:struct:ev_any_watcher::ev_embed
+embed_fork_cb	ev.c	/^embed_fork_cb (EV_P_ ev_fork *fork_w, int revents)$/;"	f	file:
+embed_io_cb	ev.c	/^embed_io_cb (EV_P_ ev_io *io, int revents)$/;"	f	file:
+embed_prepare_cb	ev.c	/^embed_prepare_cb (EV_P_ ev_prepare *prepare, int revents)$/;"	f	file:
+embeddable_backends	ev++.h	/^  inline unsigned int embeddable_backends () throw ()$/;"	f	namespace:ev
+enable_secure	ev.c	/^enable_secure (void)$/;"	f
+epoll_destroy	ev_epoll.c	/^epoll_destroy (EV_P)$/;"	f
+epoll_epermcnt	ev_wrap.h	/^#define epoll_epermcnt /;"	d
+epoll_epermcnt	ev_wrap.h	/^#undef epoll_epermcnt$/;"	d
+epoll_epermmax	ev_wrap.h	/^#define epoll_epermmax /;"	d
+epoll_epermmax	ev_wrap.h	/^#undef epoll_epermmax$/;"	d
+epoll_eperms	ev_wrap.h	/^#define epoll_eperms /;"	d
+epoll_eperms	ev_wrap.h	/^#undef epoll_eperms$/;"	d
+epoll_eventmax	ev_wrap.h	/^#define epoll_eventmax /;"	d
+epoll_eventmax	ev_wrap.h	/^#undef epoll_eventmax$/;"	d
+epoll_events	ev_wrap.h	/^#define epoll_events /;"	d
+epoll_events	ev_wrap.h	/^#undef epoll_events$/;"	d
+epoll_fork	ev_epoll.c	/^epoll_fork (EV_P)$/;"	f
+epoll_init	ev_epoll.c	/^epoll_init (EV_P_ int flags)$/;"	f
+epoll_modify	ev_epoll.c	/^epoll_modify (EV_P_ int fd, int oev, int nev)$/;"	f	file:
+epoll_poll	ev_epoll.c	/^epoll_poll (EV_P_ ev_tstamp timeout)$/;"	f	file:
+ev	ev++.h	/^namespace ev {$/;"	n
+ev_active	ev.c	/^#define ev_active(/;"	d	file:
+ev_any_watcher	ev.h	/^union ev_any_watcher$/;"	u
+ev_arg	event.h	/^  void *ev_arg;$/;"	m	struct:event
+ev_async	ev.h	/^typedef struct ev_async$/;"	s
+ev_async	ev.h	/^} ev_async;$/;"	t	typeref:struct:ev_async
+ev_async_init	ev.h	/^#define ev_async_init(/;"	d
+ev_async_pending	ev.h	/^# define ev_async_pending(/;"	d
+ev_async_set	ev.h	/^#define ev_async_set(/;"	d
+ev_at	ev.c	/^#define ev_at(/;"	d	file:
+ev_backend	ev.c	/^ev_backend (EV_P) EV_THROW$/;"	f
+ev_base	event.h	/^  struct event_base *ev_base;$/;"	m	struct:event	typeref:struct:event::event_base
+ev_callback	event.h	/^  event_callback_fn ev_callback;$/;"	m	struct:event
+ev_cb	ev.h	/^#define ev_cb(/;"	d
+ev_check	ev.h	/^typedef struct ev_check$/;"	s
+ev_check	ev.h	/^} ev_check;$/;"	t	typeref:struct:ev_check
+ev_check_2625	ev.c	/^ev_check_2625 (EV_P)$/;"	f
+ev_check_init	ev.h	/^#define ev_check_init(/;"	d
+ev_check_set	ev.h	/^#define ev_check_set(/;"	d
+ev_child	ev.h	/^typedef struct ev_child$/;"	s
+ev_child	ev.h	/^} ev_child;$/;"	t	typeref:struct:ev_child
+ev_child_init	ev.h	/^#define ev_child_init(/;"	d
+ev_child_set	ev.h	/^#define ev_child_set(/;"	d
+ev_cleanup	ev.h	/^typedef struct ev_cleanup$/;"	s
+ev_cleanup	ev.h	/^} ev_cleanup;$/;"	t	typeref:struct:ev_cleanup
+ev_cleanup_init	ev.h	/^#define ev_cleanup_init(/;"	d
+ev_cleanup_set	ev.h	/^#define ev_cleanup_set(/;"	d
+ev_default_destroy	ev.h	/^    EV_INLINE void ev_default_destroy (void) { ev_loop_destroy (EV_DEFAULT); }$/;"	f
+ev_default_fork	ev.h	/^    EV_INLINE void ev_default_fork    (void) { ev_loop_fork    (EV_DEFAULT); }$/;"	f
+ev_default_loop_ptr	ev.c	/^  EV_API_DECL struct ev_loop *ev_default_loop_ptr = 0; \/* needs to be initialised to make it a definition despite extern *\/$/;"	v	typeref:struct:ev_loop
+ev_default_loop_ptr	ev.c	/^  static int ev_default_loop_ptr;$/;"	v	file:
+ev_default_loop_ptr	ev.h	/^EV_API_DECL struct ev_loop *ev_default_loop_ptr;$/;"	v	typeref:struct:ev_loop
+ev_depth	ev.c	/^ev_depth (EV_P) EV_THROW$/;"	f
+ev_embed	ev.h	/^typedef struct ev_embed$/;"	s
+ev_embed	ev.h	/^} ev_embed;$/;"	t	typeref:struct:ev_embed
+ev_embed_init	ev.h	/^#define ev_embed_init(/;"	d
+ev_embed_set	ev.h	/^#define ev_embed_set(/;"	d
+ev_events	event.h	/^  short ev_events;$/;"	m	struct:event
+ev_fd	event.h	/^  int ev_fd;$/;"	m	struct:event
+ev_flags	event.h	/^  int ev_flags;$/;"	m	struct:event
+ev_floor	ev.c	/^# define ev_floor(/;"	d	file:
+ev_floor	ev.c	/^ev_floor (ev_tstamp v)$/;"	f	file:
+ev_fork	ev.h	/^typedef struct ev_fork$/;"	s
+ev_fork	ev.h	/^} ev_fork;$/;"	t	typeref:struct:ev_fork
+ev_fork_init	ev.h	/^#define ev_fork_init(/;"	d
+ev_fork_set	ev.h	/^#define ev_fork_set(/;"	d
+ev_free	ev.c	/^#define ev_free(/;"	d	file:
+ev_idle	ev.h	/^typedef struct ev_idle$/;"	s
+ev_idle	ev.h	/^} ev_idle;$/;"	t	typeref:struct:ev_idle
+ev_idle_init	ev.h	/^#define ev_idle_init(/;"	d
+ev_idle_set	ev.h	/^#define ev_idle_set(/;"	d
+ev_init	ev.h	/^#define ev_init(/;"	d
+ev_invoke	ev.c	/^ev_invoke (EV_P_ void *w, int revents)$/;"	f
+ev_invoke_pending	ev.c	/^ev_invoke_pending (EV_P)$/;"	f
+ev_io	ev.h	/^typedef struct ev_io$/;"	s
+ev_io	ev.h	/^} ev_io;$/;"	t	typeref:struct:ev_io
+ev_io_init	ev.h	/^#define ev_io_init(/;"	d
+ev_io_set	ev.h	/^#define ev_io_set(/;"	d
+ev_is_active	ev.h	/^#define ev_is_active(/;"	d
+ev_is_pending	ev.h	/^#define ev_is_pending(/;"	d
+ev_iteration	ev.c	/^ev_iteration (EV_P) EV_THROW$/;"	f
+ev_linux_version	ev.c	/^ev_linux_version (void)$/;"	f	file:
+ev_loop	ev.c	/^  struct ev_loop$/;"	s	file:
+ev_loop	ev.h	/^    EV_INLINE void ev_loop   (EV_P_ int flags) { ev_run   (EV_A_ flags); }$/;"	f
+ev_loop	ev.h	/^  typedef struct ev_loop ev_loop;$/;"	t	typeref:struct:ev_loop
+ev_loop_callback	ev.h	/^typedef void (*ev_loop_callback)(EV_P);$/;"	t
+ev_loop_count	ev.h	/^      EV_INLINE unsigned int ev_loop_count  (EV_P) { return ev_iteration  (EV_A); }$/;"	f
+ev_loop_depth	ev.h	/^      EV_INLINE unsigned int ev_loop_depth  (EV_P) { return ev_depth      (EV_A); }$/;"	f
+ev_loop_destroy	ev.c	/^ev_loop_destroy (EV_P)$/;"	f
+ev_loop_fork	ev.c	/^ev_loop_fork (EV_P) EV_THROW$/;"	f
+ev_loop_verify	ev.h	/^      EV_INLINE void         ev_loop_verify (EV_P) {        ev_verify     (EV_A); }$/;"	f
+ev_malloc	ev.c	/^#define ev_malloc(/;"	d	file:
+ev_now	ev.c	/^ev_now (EV_P) EV_THROW$/;"	f
+ev_now_update	ev.c	/^ev_now_update (EV_P) EV_THROW$/;"	f
+ev_once	ev.c	/^struct ev_once$/;"	s	file:
+ev_pending_count	ev.c	/^ev_pending_count (EV_P) EV_THROW$/;"	f
+ev_periodic	ev.h	/^typedef struct ev_periodic$/;"	s
+ev_periodic	ev.h	/^} ev_periodic;$/;"	t	typeref:struct:ev_periodic
+ev_periodic_at	ev.h	/^#define ev_periodic_at(/;"	d
+ev_periodic_init	ev.h	/^#define ev_periodic_init(/;"	d
+ev_periodic_set	ev.h	/^#define ev_periodic_set(/;"	d
+ev_pipe	ev_win32.c	/^ev_pipe (int filedes [2])$/;"	f	file:
+ev_prepare	ev.h	/^typedef struct ev_prepare$/;"	s
+ev_prepare	ev.h	/^} ev_prepare;$/;"	t	typeref:struct:ev_prepare
+ev_prepare_init	ev.h	/^#define ev_prepare_init(/;"	d
+ev_prepare_set	ev.h	/^#define ev_prepare_set(/;"	d
+ev_pri	event.h	/^  int ev_pri;$/;"	m	struct:event
+ev_printerr	ev.c	/^ev_printerr (const char *msg)$/;"	f	file:
+ev_priority	ev.h	/^# define ev_priority(/;"	d
+ev_realloc	ev.c	/^ev_realloc (void *ptr, long size)$/;"	f
+ev_ref	ev.c	/^ev_ref (EV_P) EV_THROW$/;"	f
+ev_res	event.h	/^  int ev_res;$/;"	m	struct:event
+ev_resume	ev.c	/^ev_resume (EV_P) EV_THROW$/;"	f
+ev_rt_now	ev.c	/^    #define ev_rt_now /;"	d	file:
+ev_rt_now	ev.c	/^    ev_tstamp ev_rt_now;$/;"	m	struct:ev_loop	file:
+ev_rt_now	ev.c	/^  EV_API_DECL ev_tstamp ev_rt_now = 0; \/* needs to be initialised to make it a definition despite extern *\/$/;"	v
+ev_rt_now	ev.h	/^EV_API_DECL ev_tstamp ev_rt_now;$/;"	v
+ev_run	ev.c	/^ev_run (EV_P_ int flags)$/;"	f
+ev_set_cb	ev.h	/^# define ev_set_cb(/;"	d
+ev_set_priority	ev.h	/^# define ev_set_priority(/;"	d
+ev_sighandler	ev.c	/^ev_sighandler (int signum)$/;"	f	file:
+ev_signal	ev.h	/^typedef struct ev_signal$/;"	s
+ev_signal	ev.h	/^} ev_signal;$/;"	t	typeref:struct:ev_signal
+ev_signal_init	ev.h	/^#define ev_signal_init(/;"	d
+ev_signal_set	ev.h	/^#define ev_signal_set(/;"	d
+ev_start	ev.c	/^ev_start (EV_P_ W w, int active)$/;"	f
+ev_stat	ev.h	/^typedef struct ev_stat$/;"	s
+ev_stat	ev.h	/^} ev_stat;$/;"	t	typeref:struct:ev_stat
+ev_stat_init	ev.h	/^#define ev_stat_init(/;"	d
+ev_stat_set	ev.h	/^#define ev_stat_set(/;"	d
+ev_statdata	ev.h	/^typedef struct _stati64 ev_statdata;$/;"	t	typeref:struct:_stati64
+ev_statdata	ev.h	/^typedef struct stat ev_statdata;$/;"	t	typeref:struct:stat
+ev_stop	ev.c	/^ev_stop (EV_P_ W w)$/;"	f
+ev_suspend	ev.c	/^ev_suspend (EV_P) EV_THROW$/;"	f
+ev_syserr	ev.c	/^ev_syserr (const char *msg)$/;"	f	file:
+ev_tcp_socket	ev_win32.c	/^ev_tcp_socket (void)$/;"	f	file:
+ev_time	ev_win32.c	/^ev_time (void)$/;"	f
+ev_timer	ev.h	/^typedef struct ev_timer$/;"	s
+ev_timer	ev.h	/^} ev_timer;$/;"	t	typeref:struct:ev_timer
+ev_timer_init	ev.h	/^#define ev_timer_init(/;"	d
+ev_timer_set	ev.h	/^#define ev_timer_set(/;"	d
+ev_tstamp	ev.h	/^typedef double ev_tstamp;$/;"	t
+ev_tv_get	event.c	/^ev_tv_get (struct timeval *tv)$/;"	f	file:
+ev_unloop	ev.h	/^    EV_INLINE void ev_unloop (EV_P_ int how  ) { ev_break (EV_A_ how  ); }$/;"	f
+ev_unref	ev.c	/^ev_unref (EV_P) EV_THROW$/;"	f
+ev_userdata	ev.c	/^ev_userdata (EV_P) EV_THROW$/;"	f
+ev_verify	ev.c	/^ev_verify (EV_P) EV_THROW$/;"	f
+ev_watcher	ev.h	/^typedef struct ev_watcher$/;"	s
+ev_watcher	ev.h	/^} ev_watcher;$/;"	t	typeref:struct:ev_watcher
+ev_watcher_list	ev.h	/^typedef struct ev_watcher_list$/;"	s
+ev_watcher_list	ev.h	/^} ev_watcher_list;$/;"	t	typeref:struct:ev_watcher_list
+ev_watcher_time	ev.h	/^typedef struct ev_watcher_time$/;"	s
+ev_watcher_time	ev.h	/^} ev_watcher_time;$/;"	t	typeref:struct:ev_watcher_time
+ev_x_cb	event.c	/^ev_x_cb (struct event *ev, int revents)$/;"	f	file:
+ev_x_cb_io	event.c	/^ev_x_cb_io (EV_P_ struct ev_io *w, int revents)$/;"	f	file:
+ev_x_cb_sig	event.c	/^ev_x_cb_sig (EV_P_ struct ev_signal *w, int revents)$/;"	f	file:
+ev_x_cb_to	event.c	/^ev_x_cb_to (EV_P_ struct ev_timer *w, int revents)$/;"	f	file:
+ev_x_cur	event.c	/^static struct event_base *ev_x_cur;$/;"	v	typeref:struct:event_base	file:
+ev_x_loopexit_cb	event.c	/^ev_x_loopexit_cb (int revents, void *base)$/;"	f	file:
+ev_x_once	event.c	/^struct ev_x_once$/;"	s	file:
+ev_x_once_cb	event.c	/^ev_x_once_cb (int revents, void *arg)$/;"	f	file:
+event	event.h	/^struct event$/;"	s
+event_active	event.c	/^void event_active (struct event *ev, int res, short ncalls)$/;"	f
+event_add	event.c	/^int event_add (struct event *ev, struct timeval *tv)$/;"	f
+event_base	event.c	/^struct event_base$/;"	s	file:
+event_base_dispatch	event.c	/^int event_base_dispatch (struct event_base *base)$/;"	f
+event_base_free	event.c	/^void event_base_free (struct event_base *base)$/;"	f
+event_base_get_method	event.c	/^event_base_get_method (const struct event_base *base)$/;"	f
+event_base_loop	event.c	/^int event_base_loop (struct event_base *base, int flags)$/;"	f
+event_base_loopexit	event.c	/^int event_base_loopexit (struct event_base *base, struct timeval *tv)$/;"	f
+event_base_new	event.c	/^event_base_new (void)$/;"	f
+event_base_once	event.c	/^int event_base_once (struct event_base *base, int fd, short events, void (*cb)(int, short, void *), void *arg, struct timeval *tv)$/;"	f
+event_base_priority_init	event.c	/^int event_base_priority_init (struct event_base *base, int npri)$/;"	f
+event_base_set	event.c	/^int event_base_set (struct event_base *base, struct event *ev)$/;"	f
+event_callback_fn	event.h	/^typedef void (*event_callback_fn)(int, short, void *);$/;"	t
+event_del	event.c	/^int event_del (struct event *ev)$/;"	f
+event_dispatch	event.c	/^int event_dispatch (void)$/;"	f
+event_get_callback	event.c	/^event_callback_fn event_get_callback$/;"	f
+event_get_method	event.c	/^event_get_method (void)$/;"	f
+event_get_version	event.c	/^event_get_version (void)$/;"	f
+event_init	event.c	/^void *event_init (void)$/;"	f
+event_initialized	event.h	/^#define event_initialized(/;"	d
+event_log_cb	event.h	/^typedef void (*event_log_cb)(int severity, const char *msg);$/;"	t
+event_loop	event.c	/^int event_loop (int flags)$/;"	f
+event_loopexit	event.c	/^int event_loopexit (struct timeval *tv)$/;"	f
+event_once	event.c	/^int event_once (int fd, short events, void (*cb)(int, short, void *), void *arg, struct timeval *tv)$/;"	f
+event_pending	event.c	/^int event_pending (struct event *ev, short events, struct timeval *tv)$/;"	f
+event_priority_init	event.c	/^int event_priority_init (int npri)$/;"	f
+event_priority_set	event.c	/^int event_priority_set (struct event *ev, int pri)$/;"	f
+event_set	event.c	/^void event_set (struct event *ev, int fd, short events, void (*cb)(int, short, void *), void *arg)$/;"	f
+event_set_log_callback	event.c	/^void event_set_log_callback (event_log_cb cb)$/;"	f
+events	ev.c	/^  int events; \/* the pending event set for the given watcher *\/$/;"	m	struct:__anon5	file:
+events	ev.c	/^  unsigned char events; \/* the events watched for *\/$/;"	m	struct:__anon4	file:
+events	ev.h	/^  int events; \/* ro *\/$/;"	m	struct:ev_io
+evpipe	ev_wrap.h	/^#define evpipe /;"	d
+evpipe	ev_wrap.h	/^#undef evpipe$/;"	d
+evpipe_init	ev.c	/^evpipe_init (EV_P)$/;"	f	file:
+evpipe_write	ev.c	/^evpipe_write (EV_P_ EV_ATOMIC_T *flag)$/;"	f
+evtimer_add	event.h	/^#define evtimer_add(/;"	d
+evtimer_del	event.h	/^#define evtimer_del(/;"	d
+evtimer_initialized	event.h	/^#define evtimer_initialized(/;"	d
+evtimer_pending	event.h	/^#define evtimer_pending(/;"	d
+evtimer_set	event.h	/^#define evtimer_set(/;"	d
+expect_false	ev.c	/^#define expect_false(/;"	d	file:
+expect_true	ev.c	/^#define expect_true(/;"	d	file:
+fd	ev.h	/^  int fd;     \/* ro *\/$/;"	m	struct:ev_io
+fd	event.c	/^  int fd;$/;"	m	struct:ev_x_once	file:
+fd_change	ev.c	/^fd_change (EV_P_ int fd, int flags)$/;"	f
+fd_ebadf	ev.c	/^fd_ebadf (EV_P)$/;"	f	file:
+fd_enomem	ev.c	/^fd_enomem (EV_P)$/;"	f	file:
+fd_event	ev.c	/^fd_event (EV_P_ int fd, int revents)$/;"	f
+fd_event_nocheck	ev.c	/^fd_event_nocheck (EV_P_ int fd, int revents)$/;"	f
+fd_intern	ev.c	/^fd_intern (int fd)$/;"	f
+fd_kill	ev.c	/^fd_kill (EV_P_ int fd)$/;"	f
+fd_rearm_all	ev.c	/^fd_rearm_all (EV_P)$/;"	f	file:
+fd_reify	ev.c	/^fd_reify (EV_P)$/;"	f
+fd_valid	ev.c	/^fd_valid (int fd)$/;"	f
+fdchangecnt	ev_wrap.h	/^#define fdchangecnt /;"	d
+fdchangecnt	ev_wrap.h	/^#undef fdchangecnt$/;"	d
+fdchangemax	ev_wrap.h	/^#define fdchangemax /;"	d
+fdchangemax	ev_wrap.h	/^#undef fdchangemax$/;"	d
+fdchanges	ev_wrap.h	/^#define fdchanges /;"	d
+fdchanges	ev_wrap.h	/^#undef fdchanges$/;"	d
+feed_event	ev++.h	/^    void feed_event (int revents) throw ()$/;"	f	struct:ev::base
+feed_fd_event	ev++.h	/^    void feed_fd_event (int fd, int revents) throw ()$/;"	f	struct:ev::loop_ref
+feed_reverse	ev.c	/^feed_reverse (EV_P_ W w)$/;"	f
+feed_reverse_done	ev.c	/^feed_reverse_done (EV_P_ int revents)$/;"	f
+feed_signal_event	ev++.h	/^    void feed_signal_event (int signum) throw ()$/;"	f	struct:ev::loop_ref
+flags	ev.h	/^  int flags;   \/* private *\/$/;"	m	struct:ev_child
+fork	ev.h	/^  ev_fork fork;          \/* private *\/$/;"	m	struct:ev_embed
+fork	ev.h	/^  struct ev_fork fork;$/;"	m	union:ev_any_watcher	typeref:struct:ev_any_watcher::ev_fork
+forkcnt	ev_wrap.h	/^#define forkcnt /;"	d
+forkcnt	ev_wrap.h	/^#undef forkcnt$/;"	d
+forkmax	ev_wrap.h	/^#define forkmax /;"	d
+forkmax	ev_wrap.h	/^#undef forkmax$/;"	d
+forks	ev_wrap.h	/^#define forks /;"	d
+forks	ev_wrap.h	/^#undef forks$/;"	d
+fs_2625	ev_wrap.h	/^#define fs_2625 /;"	d
+fs_2625	ev_wrap.h	/^#undef fs_2625$/;"	d
+fs_fd	ev_wrap.h	/^#define fs_fd /;"	d
+fs_fd	ev_wrap.h	/^#undef fs_fd$/;"	d
+fs_hash	ev_wrap.h	/^#define fs_hash /;"	d
+fs_hash	ev_wrap.h	/^#undef fs_hash$/;"	d
+fs_w	ev_wrap.h	/^#define fs_w /;"	d
+fs_w	ev_wrap.h	/^#undef fs_w$/;"	d
+func_append	configure	/^func_append ()\\$/;"	f
+func_append	ltmain.sh	/^func_append ()$/;"	f
+func_append_quoted	configure	/^func_append_quoted ()\\$/;"	f
+func_append_quoted	ltmain.sh	/^func_append_quoted ()$/;"	f
+func_arith	configure	/^func_arith ()\\$/;"	f
+func_arith	ltmain.sh	/^func_arith ()$/;"	f
+func_basename	configure	/^func_basename ()\\$/;"	f
+func_basename	ltmain.sh	/^func_basename ()$/;"	f
+func_check_version_match	ltmain.sh	/^func_check_version_match ()$/;"	f
+func_cl_dashL	compile	/^func_cl_dashL ()$/;"	f
+func_cl_dashl	compile	/^func_cl_dashl ()$/;"	f
+func_cl_wrapper	compile	/^func_cl_wrapper ()$/;"	f
+func_config	ltmain.sh	/^func_config ()$/;"	f
+func_convert_core_file_wine_to_w32	ltmain.sh	/^func_convert_core_file_wine_to_w32 ()$/;"	f
+func_convert_core_msys_to_w32	ltmain.sh	/^func_convert_core_msys_to_w32 ()$/;"	f
+func_convert_core_path_wine_to_w32	ltmain.sh	/^func_convert_core_path_wine_to_w32 ()$/;"	f
+func_convert_file_check	ltmain.sh	/^func_convert_file_check ()$/;"	f
+func_convert_file_cygwin_to_w32	ltmain.sh	/^func_convert_file_cygwin_to_w32 ()$/;"	f
+func_convert_file_msys_to_cygwin	ltmain.sh	/^func_convert_file_msys_to_cygwin ()$/;"	f
+func_convert_file_msys_to_w32	ltmain.sh	/^func_convert_file_msys_to_w32 ()$/;"	f
+func_convert_file_nix_to_cygwin	ltmain.sh	/^func_convert_file_nix_to_cygwin ()$/;"	f
+func_convert_file_nix_to_w32	ltmain.sh	/^func_convert_file_nix_to_w32 ()$/;"	f
+func_convert_file_noop	ltmain.sh	/^func_convert_file_noop ()$/;"	f
+func_convert_path_check	ltmain.sh	/^func_convert_path_check ()$/;"	f
+func_convert_path_cygwin_to_w32	ltmain.sh	/^func_convert_path_cygwin_to_w32 ()$/;"	f
+func_convert_path_front_back_pathsep	ltmain.sh	/^func_convert_path_front_back_pathsep ()$/;"	f
+func_convert_path_msys_to_cygwin	ltmain.sh	/^func_convert_path_msys_to_cygwin ()$/;"	f
+func_convert_path_msys_to_w32	ltmain.sh	/^func_convert_path_msys_to_w32 ()$/;"	f
+func_convert_path_nix_to_cygwin	ltmain.sh	/^func_convert_path_nix_to_cygwin ()$/;"	f
+func_convert_path_nix_to_w32	ltmain.sh	/^func_convert_path_nix_to_w32 ()$/;"	f
+func_convert_path_noop	ltmain.sh	/^func_convert_path_noop ()$/;"	f
+func_cygming_dll_for_implib	ltmain.sh	/^func_cygming_dll_for_implib ()$/;"	f
+func_cygming_dll_for_implib_fallback	ltmain.sh	/^func_cygming_dll_for_implib_fallback ()$/;"	f
+func_cygming_dll_for_implib_fallback_core	ltmain.sh	/^func_cygming_dll_for_implib_fallback_core ()$/;"	f
+func_cygming_gnu_implib_p	ltmain.sh	/^func_cygming_gnu_implib_p ()$/;"	f
+func_cygming_ms_implib_p	ltmain.sh	/^func_cygming_ms_implib_p ()$/;"	f
+func_cygpath	ltmain.sh	/^func_cygpath ()$/;"	f
+func_dirname	configure	/^func_dirname ()\\$/;"	f
+func_dirname	ltmain.sh	/^func_dirname ()$/;"	f
+func_dirname_and_basename	configure	/^func_dirname_and_basename ()\\$/;"	f
+func_dirname_and_basename	ltmain.sh	/^func_dirname_and_basename ()$/;"	f
+func_echo	ltmain.sh	/^func_echo ()$/;"	f
+func_echo_all	configure	/^func_echo_all ()$/;"	f
+func_echo_all	ltmain.sh	/^func_echo_all ()$/;"	f
+func_emit_cwrapperexe_src	ltmain.sh	/^func_emit_cwrapperexe_src ()$/;"	f
+func_emit_wrapper	ltmain.sh	/^func_emit_wrapper ()$/;"	f
+func_enable_tag	ltmain.sh	/^func_enable_tag ()$/;"	f
+func_error	ltmain.sh	/^func_error ()$/;"	f
+func_exec_program	ltmain.sh	/^func_exec_program ()$/;"	f
+func_exec_program_core	ltmain.sh	/^func_exec_program_core ()$/;"	f
+func_execute_cmds	ltmain.sh	/^func_execute_cmds ()$/;"	f
+func_extract_an_archive	ltmain.sh	/^func_extract_an_archive ()$/;"	f
+func_extract_archives	ltmain.sh	/^func_extract_archives ()$/;"	f
+func_fallback_echo	configure	/^  func_fallback_echo ()$/;"	f
+func_fallback_echo	configure	/^func_fallback_echo ()$/;"	f
+func_fallback_echo	ltmain.sh	/^func_fallback_echo ()$/;"	f
+func_fatal_configuration	ltmain.sh	/^func_fatal_configuration ()$/;"	f
+func_fatal_error	ltmain.sh	/^func_fatal_error ()$/;"	f
+func_fatal_help	ltmain.sh	/^func_fatal_help ()$/;"	f
+func_features	ltmain.sh	/^func_features ()$/;"	f
+func_file_conv	compile	/^func_file_conv ()$/;"	f
+func_generate_dlsyms	ltmain.sh	/^func_generate_dlsyms ()$/;"	f
+func_grep	ltmain.sh	/^func_grep ()$/;"	f
+func_help	ltmain.sh	/^func_help ()$/;"	f
+func_infer_tag	ltmain.sh	/^func_infer_tag ()$/;"	f
+func_init_to_host_path_cmd	ltmain.sh	/^func_init_to_host_path_cmd ()$/;"	f
+func_lalib_p	ltmain.sh	/^func_lalib_p ()$/;"	f
+func_lalib_unsafe_p	ltmain.sh	/^func_lalib_unsafe_p ()$/;"	f
+func_len	configure	/^func_len ()\\$/;"	f
+func_len	ltmain.sh	/^func_len ()$/;"	f
+func_lo2o	configure	/^func_lo2o ()\\$/;"	f
+func_lo2o	ltmain.sh	/^func_lo2o ()$/;"	f
+func_lt_dump_args	ltmain.sh	/^func_lt_dump_args ()$/;"	f
+func_ltwrapper_executable_p	ltmain.sh	/^func_ltwrapper_executable_p ()$/;"	f
+func_ltwrapper_p	ltmain.sh	/^func_ltwrapper_p ()$/;"	f
+func_ltwrapper_script_p	ltmain.sh	/^func_ltwrapper_script_p ()$/;"	f
+func_ltwrapper_scriptname	ltmain.sh	/^func_ltwrapper_scriptname ()$/;"	f
+func_missing_arg	ltmain.sh	/^func_missing_arg ()$/;"	f
+func_mkdir_p	ltmain.sh	/^func_mkdir_p ()$/;"	f
+func_mktempdir	ltmain.sh	/^func_mktempdir ()$/;"	f
+func_mode_compile	ltmain.sh	/^func_mode_compile ()$/;"	f
+func_mode_execute	ltmain.sh	/^func_mode_execute ()$/;"	f
+func_mode_finish	ltmain.sh	/^func_mode_finish ()$/;"	f
+func_mode_help	ltmain.sh	/^func_mode_help ()$/;"	f
+func_mode_install	ltmain.sh	/^func_mode_install ()$/;"	f
+func_mode_link	ltmain.sh	/^func_mode_link ()$/;"	f
+func_mode_uninstall	ltmain.sh	/^func_mode_uninstall ()$/;"	f
+func_normal_abspath	ltmain.sh	/^func_normal_abspath ()$/;"	f
+func_parse_lt_options	ltmain.sh	/^func_parse_lt_options ()$/;"	f
+func_quote_for_eval	ltmain.sh	/^func_quote_for_eval ()$/;"	f
+func_quote_for_expand	ltmain.sh	/^func_quote_for_expand ()$/;"	f
+func_relative_path	ltmain.sh	/^func_relative_path ()$/;"	f
+func_replace_sysroot	ltmain.sh	/^func_replace_sysroot ()$/;"	f
+func_resolve_sysroot	ltmain.sh	/^func_resolve_sysroot ()$/;"	f
+func_show_eval	ltmain.sh	/^func_show_eval ()$/;"	f
+func_show_eval_locale	ltmain.sh	/^func_show_eval_locale ()$/;"	f
+func_source	ltmain.sh	/^func_source ()$/;"	f
+func_split_long_opt	configure	/^func_split_long_opt ()\\$/;"	f
+func_split_long_opt	ltmain.sh	/^func_split_long_opt ()$/;"	f
+func_split_short_opt	configure	/^func_split_short_opt ()\\$/;"	f
+func_split_short_opt	ltmain.sh	/^func_split_short_opt ()$/;"	f
+func_stripname	configure	/^func_stripname ()\\$/;"	f
+func_stripname	ltmain.sh	/^func_stripname ()$/;"	f
+func_to_host_file	ltmain.sh	/^func_to_host_file ()$/;"	f
+func_to_host_path	ltmain.sh	/^func_to_host_path ()$/;"	f
+func_to_tool_file	ltmain.sh	/^func_to_tool_file ()$/;"	f
+func_tr_sh	ltmain.sh	/^func_tr_sh ()$/;"	f
+func_usage	ltmain.sh	/^func_usage ()$/;"	f
+func_verbose	ltmain.sh	/^func_verbose ()$/;"	f
+func_version	ltmain.sh	/^func_version ()$/;"	f
+func_warning	ltmain.sh	/^func_warning ()$/;"	f
+func_win32_import_lib_p	ltmain.sh	/^func_win32_import_lib_p ()$/;"	f
+func_win32_libid	ltmain.sh	/^func_win32_libid ()$/;"	f
+func_write_libtool_object	ltmain.sh	/^func_write_libtool_object ()$/;"	f
+func_xform	configure	/^func_xform ()\\$/;"	f
+func_xform	ltmain.sh	/^func_xform ()$/;"	f
+function_thunk	ev++.h	/^    static void function_thunk (EV_P_ ev_watcher *w, int revents)$/;"	f	struct:ev::base
+get_clock	ev.c	/^get_clock (void)$/;"	f
+get_default_loop	ev++.h	/^  inline loop_ref get_default_loop () throw ()$/;"	f	namespace:ev
+give_advice	missing	/^give_advice ()$/;"	f
+handle	ev.c	/^  SOCKET handle;$/;"	m	struct:__anon4	file:
+have_monotonic	ev.c	/^static EV_ATOMIC_T have_monotonic; \/* did clock_gettime (CLOCK_MONOTONIC) work? *\/$/;"	v	file:
+have_realtime	ev.c	/^static EV_ATOMIC_T have_realtime; \/* did clock_gettime (CLOCK_REALTIME) work? *\/$/;"	v	file:
+head	ev.c	/^  WL head;$/;"	m	struct:__anon4	file:
+head	ev.c	/^  WL head;$/;"	m	struct:__anon6	file:
+head	ev.c	/^  WL head;$/;"	m	struct:__anon8	file:
+how_t	ev++.h	/^  enum how_t$/;"	g	namespace:ev
+idle	ev.h	/^  ev_idle idle;          \/* unused *\/$/;"	m	struct:ev_embed
+idle	ev.h	/^  struct ev_idle idle;$/;"	m	union:ev_any_watcher	typeref:struct:ev_any_watcher::ev_idle
+idle_reify	ev.c	/^idle_reify (EV_P)$/;"	f
+idleall	ev_wrap.h	/^#define idleall /;"	d
+idleall	ev_wrap.h	/^#undef idleall$/;"	d
+idlecnt	ev_wrap.h	/^#define idlecnt /;"	d
+idlecnt	ev_wrap.h	/^#undef idlecnt$/;"	d
+idlemax	ev_wrap.h	/^#define idlemax /;"	d
+idlemax	ev_wrap.h	/^#undef idlemax$/;"	d
+idles	ev_wrap.h	/^#define idles /;"	d
+idles	ev_wrap.h	/^#undef idles$/;"	d
+infy_add	ev.c	/^infy_add (EV_P_ ev_stat *w)$/;"	f	file:
+infy_cb	ev.c	/^infy_cb (EV_P_ ev_io *w, int revents)$/;"	f	file:
+infy_del	ev.c	/^infy_del (EV_P_ ev_stat *w)$/;"	f	file:
+infy_fork	ev.c	/^infy_fork (EV_P)$/;"	f
+infy_init	ev.c	/^infy_init (EV_P)$/;"	f
+infy_newfd	ev.c	/^infy_newfd (void)$/;"	f
+infy_wd	ev.c	/^infy_wd (EV_P_ int slot, int wd, struct inotify_event *ev)$/;"	f	file:
+inline_size	ev.c	/^#define inline_size /;"	d	file:
+inline_speed	ev.c	/^# define inline_speed /;"	d	file:
+int16_t	ev.c	/^  typedef   signed short  int16_t;$/;"	t	file:
+int32_t	ev.c	/^  typedef   signed int    int32_t;$/;"	t	file:
+int64_t	ev.c	/^    typedef   signed __int64   int64_t;$/;"	t	file:
+int64_t	ev.c	/^    typedef   signed long long int64_t;$/;"	t	file:
+int8_t	ev.c	/^  typedef   signed char   int8_t;$/;"	t	file:
+interval	ev.h	/^  ev_tstamp interval; \/* ro *\/$/;"	m	struct:ev_stat
+interval	ev.h	/^  ev_tstamp interval; \/* rw *\/$/;"	m	struct:ev_periodic
+intptr_t	ev.c	/^    typedef  int32_t  intptr_t;$/;"	t	file:
+intptr_t	ev.c	/^    typedef  int64_t  intptr_t;$/;"	t	file:
+invoke_cb	ev_wrap.h	/^#define invoke_cb /;"	d
+invoke_cb	ev_wrap.h	/^#undef invoke_cb$/;"	d
+io	ev.c	/^  ev_io io;$/;"	m	struct:ev_once	file:
+io	ev.h	/^  ev_io io;              \/* private *\/$/;"	m	struct:ev_embed
+io	ev.h	/^  struct ev_io io;$/;"	m	union:ev_any_watcher	typeref:struct:ev_any_watcher::ev_io
+io	event.h	/^    struct ev_io io;$/;"	m	union:event::__anon14	typeref:struct:event::__anon14::ev_io
+io_blocktime	ev_wrap.h	/^#define io_blocktime /;"	d
+io_blocktime	ev_wrap.h	/^#undef io_blocktime$/;"	d
+iocp	ev_wrap.h	/^#define iocp /;"	d
+iocp	ev_wrap.h	/^#undef iocp$/;"	d
+iosig	event.h	/^  } iosig;$/;"	m	struct:event	typeref:union:event::__anon14
+is_active	ev++.h	/^    bool is_active () const throw ()$/;"	f	struct:ev::base
+is_default	ev++.h	/^    bool is_default () const throw ()$/;"	f	struct:ev::loop_ref
+is_pending	ev++.h	/^    bool is_pending () const throw ()$/;"	f	struct:ev::base
+iteration	ev++.h	/^    unsigned int iteration () const throw ()$/;"	f	struct:ev::loop_ref
+kqueue_change	ev_kqueue.c	/^kqueue_change (EV_P_ int fd, int filter, int flags, int fflags)$/;"	f
+kqueue_changecnt	ev_wrap.h	/^#define kqueue_changecnt /;"	d
+kqueue_changecnt	ev_wrap.h	/^#undef kqueue_changecnt$/;"	d
+kqueue_changemax	ev_wrap.h	/^#define kqueue_changemax /;"	d
+kqueue_changemax	ev_wrap.h	/^#undef kqueue_changemax$/;"	d
+kqueue_changes	ev_wrap.h	/^#define kqueue_changes /;"	d
+kqueue_changes	ev_wrap.h	/^#undef kqueue_changes$/;"	d
+kqueue_destroy	ev_kqueue.c	/^kqueue_destroy (EV_P)$/;"	f
+kqueue_eventmax	ev_wrap.h	/^#define kqueue_eventmax /;"	d
+kqueue_eventmax	ev_wrap.h	/^#undef kqueue_eventmax$/;"	d
+kqueue_events	ev_wrap.h	/^#define kqueue_events /;"	d
+kqueue_events	ev_wrap.h	/^#undef kqueue_events$/;"	d
+kqueue_fd_pid	ev_wrap.h	/^#define kqueue_fd_pid /;"	d
+kqueue_fd_pid	ev_wrap.h	/^#undef kqueue_fd_pid$/;"	d
+kqueue_fork	ev_kqueue.c	/^kqueue_fork (EV_P)$/;"	f
+kqueue_init	ev_kqueue.c	/^kqueue_init (EV_P_ int flags)$/;"	f
+kqueue_modify	ev_kqueue.c	/^kqueue_modify (EV_P_ int fd, int oev, int nev)$/;"	f	file:
+kqueue_poll	ev_kqueue.c	/^kqueue_poll (EV_P_ ev_tstamp timeout)$/;"	f	file:
+loop	ev++.h	/^    void loop (int flags = 0)$/;"	f	struct:ev::loop_ref
+loop_count	ev_wrap.h	/^#define loop_count /;"	d
+loop_count	ev_wrap.h	/^#undef loop_count$/;"	d
+loop_depth	ev_wrap.h	/^#define loop_depth /;"	d
+loop_depth	ev_wrap.h	/^#undef loop_depth$/;"	d
+loop_done	ev_wrap.h	/^#define loop_done /;"	d
+loop_done	ev_wrap.h	/^#undef loop_done$/;"	d
+loop_fork	ev.c	/^loop_fork (EV_P)$/;"	f
+loop_ref	ev++.h	/^    loop_ref (EV_P) throw ()$/;"	f	struct:ev::loop_ref
+loop_ref	ev++.h	/^  struct loop_ref$/;"	s	namespace:ev
+lstat	ev.c	/^#  define lstat(/;"	d	file:
+lstat	ev.c	/^#  undef lstat$/;"	d	file:
+main	config.guess	/^		main()$/;"	f
+main	config.guess	/^	main ()$/;"	f
+main	config.guess	/^main ()$/;"	f
+method_noargs_thunk	ev++.h	/^    static void method_noargs_thunk (EV_P_ ev_watcher *w, int revents)$/;"	f	struct:ev::base
+method_noargs_thunk	ev++.h	/^    static void method_noargs_thunk (int revents, void *arg)$/;"	f	struct:ev::loop_ref
+method_thunk	ev++.h	/^    static void method_thunk (EV_P_ ev_watcher *w, int revents)$/;"	f	struct:ev::base
+method_thunk	ev++.h	/^    static void method_thunk (int revents, void *arg)$/;"	f	struct:ev::loop_ref
+mn_now	ev_wrap.h	/^#define mn_now /;"	d
+mn_now	ev_wrap.h	/^#undef mn_now$/;"	d
+noinline	ev.c	/^#define noinline /;"	d	file:
+now	ev++.h	/^    tstamp now () const throw ()$/;"	f	struct:ev::loop_ref
+now	ev++.h	/^  inline tstamp now (EV_P) throw ()$/;"	f	namespace:ev
+now_floor	ev_wrap.h	/^#define now_floor /;"	d
+now_floor	ev_wrap.h	/^#undef now_floor$/;"	d
+offset	ev.h	/^  ev_tstamp offset; \/* rw *\/$/;"	m	struct:ev_periodic
+once	ev++.h	/^    void once (int fd, int events, tstamp timeout) throw ()$/;"	f	struct:ev::loop_ref
+once	ev++.h	/^    void once (int fd, int events, tstamp timeout, K *object) throw ()$/;"	f	struct:ev::loop_ref
+once	ev++.h	/^    void once (int fd, int events, tstamp timeout, void (*cb)(int, void *), void *arg = 0) throw ()$/;"	f	struct:ev::loop_ref
+once_cb	ev.c	/^once_cb (EV_P_ struct ev_once *once, int revents)$/;"	f	file:
+once_cb_io	ev.c	/^once_cb_io (EV_P_ ev_io *w, int revents)$/;"	f	file:
+once_cb_to	ev.c	/^once_cb_to (EV_P_ ev_timer *w, int revents)$/;"	f	file:
+operator !=	ev++.h	/^    bool operator != (const EV_P) const throw ()$/;"	f	struct:ev::loop_ref
+operator !=	ev++.h	/^    bool operator != (const loop_ref &other) const throw ()$/;"	f	struct:ev::loop_ref
+operator ()	ev++.h	/^    void operator ()(int events = EV_UNDEF)$/;"	f	struct:ev::base
+operator ==	ev++.h	/^    bool operator == (const EV_P) const throw ()$/;"	f	struct:ev::loop_ref
+operator ==	ev++.h	/^    bool operator == (const loop_ref &other) const throw ()$/;"	f	struct:ev::loop_ref
+operator const struct ev_loop *	ev++.h	/^    operator const struct ev_loop * () const throw ()$/;"	f	struct:ev::loop_ref
+operator struct ev_loop *	ev++.h	/^    operator struct ev_loop * () const throw ()$/;"	f	struct:ev::loop_ref
+or	ev.c	/^  OVERLAPPED or, ow;$/;"	m	struct:__anon4	file:
+origflags	ev_wrap.h	/^#define origflags /;"	d
+origflags	ev_wrap.h	/^#undef origflags$/;"	d
+other	ev.h	/^  struct ev_loop *other; \/* ro *\/$/;"	m	struct:ev_embed	typeref:struct:ev_embed::ev_loop
+ow	ev.c	/^  OVERLAPPED or, ow;$/;"	m	struct:__anon4	file:
+pad	ev.c	/^  char pad[128 - sizeof (uint32_t)];$/;"	m	struct:signalfd_siginfo	file:
+path	ev.h	/^  const char *path;   \/* ro *\/$/;"	m	struct:ev_stat
+pending	ev.c	/^  EV_ATOMIC_T pending;$/;"	m	struct:__anon8	file:
+pending_w	ev_wrap.h	/^#define pending_w /;"	d
+pending_w	ev_wrap.h	/^#undef pending_w$/;"	d
+pendingcb	ev.c	/^pendingcb (EV_P_ ev_prepare *w, int revents)$/;"	f	file:
+pendingcnt	ev_wrap.h	/^#define pendingcnt /;"	d
+pendingcnt	ev_wrap.h	/^#undef pendingcnt$/;"	d
+pendingmax	ev_wrap.h	/^#define pendingmax /;"	d
+pendingmax	ev_wrap.h	/^#undef pendingmax$/;"	d
+pendingpri	ev_wrap.h	/^#define pendingpri /;"	d
+pendingpri	ev_wrap.h	/^#undef pendingpri$/;"	d
+pendings	ev_wrap.h	/^#define pendings /;"	d
+pendings	ev_wrap.h	/^#undef pendings$/;"	d
+periodic	ev.h	/^  ev_periodic periodic;  \/* unused *\/$/;"	m	struct:ev_embed
+periodic	ev.h	/^  struct ev_periodic periodic;$/;"	m	union:ev_any_watcher	typeref:struct:ev_any_watcher::ev_periodic
+periodic_recalc	ev.c	/^periodic_recalc (EV_P_ ev_periodic *w)$/;"	f	file:
+periodiccnt	ev_wrap.h	/^#define periodiccnt /;"	d
+periodiccnt	ev_wrap.h	/^#undef periodiccnt$/;"	d
+periodicmax	ev_wrap.h	/^#define periodicmax /;"	d
+periodicmax	ev_wrap.h	/^#undef periodicmax$/;"	d
+periodics	ev_wrap.h	/^#define periodics /;"	d
+periodics	ev_wrap.h	/^#undef periodics$/;"	d
+periodics_reify	ev.c	/^periodics_reify (EV_P)$/;"	f
+periodics_reschedule	ev.c	/^periodics_reschedule (EV_P)$/;"	f	file:
+pid	ev.h	/^  int pid;     \/* ro *\/$/;"	m	struct:ev_child
+pipe	ev_win32.c	/^#define pipe(/;"	d	file:
+pipe	ev_win32.c	/^#undef pipe$/;"	d	file:
+pipe_w	ev_wrap.h	/^#define pipe_w /;"	d
+pipe_w	ev_wrap.h	/^#undef pipe_w$/;"	d
+pipe_write_skipped	ev_wrap.h	/^#define pipe_write_skipped /;"	d
+pipe_write_skipped	ev_wrap.h	/^#undef pipe_write_skipped$/;"	d
+pipe_write_wanted	ev_wrap.h	/^#define pipe_write_wanted /;"	d
+pipe_write_wanted	ev_wrap.h	/^#undef pipe_write_wanted$/;"	d
+pipecb	ev.c	/^pipecb (EV_P_ ev_io *iow, int revents)$/;"	f	file:
+poll_destroy	ev_poll.c	/^poll_destroy (EV_P)$/;"	f
+poll_init	ev_poll.c	/^poll_init (EV_P_ int flags)$/;"	f
+poll_modify	ev_poll.c	/^poll_modify (EV_P_ int fd, int oev, int nev)$/;"	f	file:
+poll_poll	ev_poll.c	/^poll_poll (EV_P_ ev_tstamp timeout)$/;"	f	file:
+pollcnt	ev_wrap.h	/^#define pollcnt /;"	d
+pollcnt	ev_wrap.h	/^#undef pollcnt$/;"	d
+pollidx_init	ev_poll.c	/^pollidx_init (int *base, int count)$/;"	f
+pollidxmax	ev_wrap.h	/^#define pollidxmax /;"	d
+pollidxmax	ev_wrap.h	/^#undef pollidxmax$/;"	d
+pollidxs	ev_wrap.h	/^#define pollidxs /;"	d
+pollidxs	ev_wrap.h	/^#undef pollidxs$/;"	d
+pollmax	ev_wrap.h	/^#define pollmax /;"	d
+pollmax	ev_wrap.h	/^#undef pollmax$/;"	d
+polls	ev_wrap.h	/^#define polls /;"	d
+polls	ev_wrap.h	/^#undef polls$/;"	d
+port_associate_and_check	ev_port.c	/^port_associate_and_check (EV_P_ int fd, int ev)$/;"	f
+port_destroy	ev_port.c	/^port_destroy (EV_P)$/;"	f
+port_eventmax	ev_wrap.h	/^#define port_eventmax /;"	d
+port_eventmax	ev_wrap.h	/^#undef port_eventmax$/;"	d
+port_events	ev_wrap.h	/^#define port_events /;"	d
+port_events	ev_wrap.h	/^#undef port_events$/;"	d
+port_fork	ev_port.c	/^port_fork (EV_P)$/;"	f
+port_init	ev_port.c	/^port_init (EV_P_ int flags)$/;"	f
+port_modify	ev_port.c	/^port_modify (EV_P_ int fd, int oev, int nev)$/;"	f	file:
+port_poll	ev_port.c	/^port_poll (EV_P_ ev_tstamp timeout)$/;"	f	file:
+post_fork	ev++.h	/^    void post_fork () throw ()$/;"	f	struct:ev::loop_ref
+postfork	ev_wrap.h	/^#define postfork /;"	d
+postfork	ev_wrap.h	/^#undef postfork$/;"	d
+prepare	ev.h	/^  ev_prepare prepare;    \/* private *\/$/;"	m	struct:ev_embed
+prepare	ev.h	/^  struct ev_prepare prepare;$/;"	m	union:ev_any_watcher	typeref:struct:ev_any_watcher::ev_prepare
+preparecnt	ev_wrap.h	/^#define preparecnt /;"	d
+preparecnt	ev_wrap.h	/^#undef preparecnt$/;"	d
+preparemax	ev_wrap.h	/^#define preparemax /;"	d
+preparemax	ev_wrap.h	/^#undef preparemax$/;"	d
+prepares	ev_wrap.h	/^#define prepares /;"	d
+prepares	ev_wrap.h	/^#undef prepares$/;"	d
+prev	ev.h	/^  ev_statdata prev;   \/* ro *\/$/;"	m	struct:ev_stat
+pri_adjust	ev.c	/^pri_adjust (EV_P_ W w)$/;"	f
+program_details	missing	/^program_details ()$/;"	f
+prototypes	configure	/^   function prototypes and stuff, but not '\\xHH' hex character constants.$/;"	f
+queue_events	ev.c	/^queue_events (EV_P_ W *events, int eventcnt, int type)$/;"	f
+recommended_backends	ev++.h	/^  inline unsigned int recommended_backends () throw ()$/;"	f	namespace:ev
+ref	ev++.h	/^    void ref () throw ()$/;"	f	struct:ev::loop_ref
+reheap	ev.c	/^reheap (ANHE *heap, int N)$/;"	f
+reify	ev.c	/^  unsigned char reify;  \/* flag set when this ANFD needs reification (EV_ANFD_REIFY, EV__IOFDSET) *\/$/;"	m	struct:__anon4	file:
+release_cb	ev_wrap.h	/^#define release_cb /;"	d
+release_cb	ev_wrap.h	/^#undef release_cb$/;"	d
+remaining	ev++.h	/^    ev_tstamp remaining ()$/;"	f	namespace:ev
+repeat	ev.h	/^  ev_tstamp repeat; \/* rw *\/$/;"	m	struct:ev_timer
+rfeedcnt	ev_wrap.h	/^#define rfeedcnt /;"	d
+rfeedcnt	ev_wrap.h	/^#undef rfeedcnt$/;"	d
+rfeedmax	ev_wrap.h	/^#define rfeedmax /;"	d
+rfeedmax	ev_wrap.h	/^#undef rfeedmax$/;"	d
+rfeeds	ev_wrap.h	/^#define rfeeds /;"	d
+rfeeds	ev_wrap.h	/^#undef rfeeds$/;"	d
+rpid	ev.h	/^  int rpid;    \/* rw, holds the received pid *\/$/;"	m	struct:ev_child
+rstatus	ev.h	/^  int rstatus; \/* rw, holds the exit status, use the macros from sys\/wait.h *\/$/;"	m	struct:ev_child
+rtmn_diff	ev_wrap.h	/^#define rtmn_diff /;"	d
+rtmn_diff	ev_wrap.h	/^#undef rtmn_diff$/;"	d
+run	ev++.h	/^    void run (int flags = 0)$/;"	f	struct:ev::loop_ref
+select_destroy	ev_select.c	/^select_destroy (EV_P)$/;"	f
+select_init	ev_select.c	/^select_init (EV_P_ int flags)$/;"	f
+select_modify	ev_select.c	/^select_modify (EV_P_ int fd, int oev, int nev)$/;"	f	file:
+select_poll	ev_select.c	/^select_poll (EV_P_ ev_tstamp timeout)$/;"	f	file:
+send	ev++.h	/^    void send () throw ()$/;"	f	namespace:ev
+sent	ev.h	/^  EV_ATOMIC_T sent; \/* private *\/$/;"	m	struct:ev_async
+set	ev++.h	/^      void set (EV_P) throw ()$/;"	f	struct:ev::base
+set	ev++.h	/^    void set () throw () { }$/;"	f	namespace:ev
+set	ev++.h	/^    void set (K *object) throw ()$/;"	f	struct:ev::base
+set	ev++.h	/^    void set (const char *path, ev_tstamp interval = 0.) throw ()$/;"	f	namespace:ev
+set	ev++.h	/^    void set (ev_tstamp after, ev_tstamp repeat = 0.) throw ()$/;"	f	namespace:ev
+set	ev++.h	/^    void set (ev_tstamp at, ev_tstamp interval = 0.) throw ()$/;"	f	namespace:ev
+set	ev++.h	/^    void set (int events) throw ()$/;"	f	namespace:ev
+set	ev++.h	/^    void set (int fd, int events) throw ()$/;"	f	namespace:ev
+set	ev++.h	/^    void set (int pid, int trace = 0) throw ()$/;"	f	namespace:ev
+set	ev++.h	/^    void set (int signum) throw ()$/;"	f	namespace:ev
+set	ev++.h	/^    void set (void *data = 0) throw ()$/;"	f	struct:ev::base
+set_	ev++.h	/^    void set_ (const void *data, void (*cb)(EV_P_ ev_watcher *w, int revents)) throw ()$/;"	f	struct:ev::base
+set_allocator	ev++.h	/^  inline void set_allocator (void *(*cb)(void *ptr, long size) throw ()) throw ()$/;"	f	namespace:ev
+set_embed	ev++.h	/^    void set_embed (struct ev_loop *embedded_loop) throw ()$/;"	f	namespace:ev
+set_io_collect_interval	ev++.h	/^    void set_io_collect_interval (tstamp interval) throw ()$/;"	f	struct:ev::loop_ref
+set_syserr_cb	ev++.h	/^  inline void set_syserr_cb (void (*cb)(const char *msg) throw ()) throw ()$/;"	f	namespace:ev
+set_timeout_collect_interval	ev++.h	/^    void set_timeout_collect_interval (tstamp interval) throw ()$/;"	f	struct:ev::loop_ref
+sig	event.h	/^    struct ev_signal sig;$/;"	m	union:event::__anon14	typeref:struct:event::__anon14::ev_signal
+sig_pending	ev_wrap.h	/^#define sig_pending /;"	d
+sig_pending	ev_wrap.h	/^#undef sig_pending$/;"	d
+sigfd	ev_wrap.h	/^#define sigfd /;"	d
+sigfd	ev_wrap.h	/^#undef sigfd$/;"	d
+sigfd_set	ev_wrap.h	/^#define sigfd_set /;"	d
+sigfd_set	ev_wrap.h	/^#undef sigfd_set$/;"	d
+sigfd_w	ev_wrap.h	/^#define sigfd_w /;"	d
+sigfd_w	ev_wrap.h	/^#undef sigfd_w$/;"	d
+sigfdcb	ev.c	/^sigfdcb (EV_P_ ev_io *iow, int revents)$/;"	f	file:
+signal	ev.h	/^  struct ev_signal signal;$/;"	m	union:ev_any_watcher	typeref:struct:ev_any_watcher::ev_signal
+signal_add	event.h	/^#define signal_add(/;"	d
+signal_del	event.h	/^#define signal_del(/;"	d
+signal_initialized	event.h	/^#define signal_initialized(/;"	d
+signal_pending	event.h	/^#define signal_pending(/;"	d
+signal_set	event.h	/^#define signal_set(/;"	d
+signalfd_siginfo	ev.c	/^struct signalfd_siginfo$/;"	s	file:
+signals	ev.c	/^static ANSIG signals [EV_NSIG - 1];$/;"	v	file:
+signum	ev.h	/^  int signum; \/* ro *\/$/;"	m	struct:ev_signal
+simpler_func_thunk	ev++.h	/^    static void simpler_func_thunk (int revents, void *arg)$/;"	f	struct:ev::loop_ref
+simplest_func_thunk	ev++.h	/^    static void simplest_func_thunk (int revents, void *arg)$/;"	f	struct:ev::loop_ref
+ssi_signo	ev.c	/^  uint32_t ssi_signo;$/;"	m	struct:signalfd_siginfo	file:
+start	ev++.h	/^    void start (const char *path, ev_tstamp interval = 0.) throw ()$/;"	f	namespace:ev
+start	ev++.h	/^    void start (ev_tstamp after, ev_tstamp repeat = 0.) throw ()$/;"	f	namespace:ev
+start	ev++.h	/^    void start (ev_tstamp at, ev_tstamp interval = 0.) throw ()$/;"	f	namespace:ev
+start	ev++.h	/^    void start (int fd, int events) throw ()$/;"	f	namespace:ev
+start	ev++.h	/^    void start (int pid, int trace = 0) throw ()$/;"	f	namespace:ev
+start	ev++.h	/^    void start (int signum) throw ()$/;"	f	namespace:ev
+start	ev++.h	/^    void start (struct ev_loop *embedded_loop) throw ()$/;"	f	namespace:ev
+stat	ev.h	/^  struct ev_stat stat;$/;"	m	union:ev_any_watcher	typeref:struct:ev_any_watcher::ev_stat
+stat_timer_cb	ev.c	/^stat_timer_cb (EV_P_ ev_timer *w_, int revents)$/;"	f	file:
+supported_backends	ev++.h	/^  inline unsigned int supported_backends () throw ()$/;"	f	namespace:ev
+sweep	ev++.h	/^    void sweep ()$/;"	f	namespace:ev
+time_update	ev.c	/^time_update (EV_P_ ev_tstamp max_block)$/;"	f
+timeout_add	event.h	/^#define timeout_add(/;"	d
+timeout_blocktime	ev_wrap.h	/^#define timeout_blocktime /;"	d
+timeout_blocktime	ev_wrap.h	/^#undef timeout_blocktime$/;"	d
+timeout_del	event.h	/^#define timeout_del(/;"	d
+timeout_initialized	event.h	/^#define timeout_initialized(/;"	d
+timeout_pending	event.h	/^#define timeout_pending(/;"	d
+timeout_set	event.h	/^#define timeout_set(/;"	d
+timer	ev.h	/^  ev_timer timer;        \/* unused *\/$/;"	m	struct:ev_embed
+timer	ev.h	/^  ev_timer timer;     \/* private *\/$/;"	m	struct:ev_stat
+timer	ev.h	/^  struct ev_timer timer;$/;"	m	union:ev_any_watcher	typeref:struct:ev_any_watcher::ev_timer
+timercnt	ev_wrap.h	/^#define timercnt /;"	d
+timercnt	ev_wrap.h	/^#undef timercnt$/;"	d
+timermax	ev_wrap.h	/^#define timermax /;"	d
+timermax	ev_wrap.h	/^#undef timermax$/;"	d
+timers	ev_wrap.h	/^#define timers /;"	d
+timers	ev_wrap.h	/^#undef timers$/;"	d
+timers_reify	ev.c	/^timers_reify (EV_P)$/;"	f
+timers_reschedule	ev.c	/^timers_reschedule (EV_P_ ev_tstamp adjust)$/;"	f	file:
+to	ev.c	/^  ev_timer to;$/;"	m	struct:ev_once	file:
+to	event.h	/^  struct ev_timer to;$/;"	m	struct:event	typeref:struct:event::ev_timer
+tstamp	ev++.h	/^  typedef ev_tstamp tstamp;$/;"	t	namespace:ev
+uint16_t	ev.c	/^  typedef unsigned short uint16_t;$/;"	t	file:
+uint32_t	ev.c	/^  typedef unsigned int   uint32_t;$/;"	t	file:
+uint64_t	ev.c	/^    typedef unsigned __int64   uint64_t;$/;"	t	file:
+uint64_t	ev.c	/^    typedef unsigned long long uint64_t;$/;"	t	file:
+uint8_t	ev.c	/^  typedef unsigned char  uint8_t;$/;"	t	file:
+uintptr_t	ev.c	/^    typedef uint32_t uintptr_t;$/;"	t	file:
+uintptr_t	ev.c	/^    typedef uint64_t uintptr_t;$/;"	t	file:
+unloop	ev++.h	/^    void unloop (how_t how = ONE) throw ()$/;"	f	struct:ev::loop_ref
+unref	ev++.h	/^    void unref () throw ()$/;"	f	struct:ev::loop_ref
+unused	ev.c	/^  unsigned char unused;$/;"	m	struct:__anon4	file:
+update	ev++.h	/^    void update () throw ()$/;"	f	namespace:ev
+upheap	ev.c	/^upheap (ANHE *heap, int k)$/;"	f
+userdata	ev_wrap.h	/^#define userdata /;"	d
+userdata	ev_wrap.h	/^#undef userdata$/;"	d
+vec_eo	ev_wrap.h	/^#define vec_eo /;"	d
+vec_eo	ev_wrap.h	/^#undef vec_eo$/;"	d
+vec_max	ev_wrap.h	/^#define vec_max /;"	d
+vec_max	ev_wrap.h	/^#undef vec_max$/;"	d
+vec_ri	ev_wrap.h	/^#define vec_ri /;"	d
+vec_ri	ev_wrap.h	/^#undef vec_ri$/;"	d
+vec_ro	ev_wrap.h	/^#define vec_ro /;"	d
+vec_ro	ev_wrap.h	/^#undef vec_ro$/;"	d
+vec_wi	ev_wrap.h	/^#define vec_wi /;"	d
+vec_wi	ev_wrap.h	/^#undef vec_wi$/;"	d
+vec_wo	ev_wrap.h	/^#define vec_wo /;"	d
+vec_wo	ev_wrap.h	/^#undef vec_wo$/;"	d
+verify_heap	ev.c	/^verify_heap (EV_P_ ANHE *heap, int N)$/;"	f	file:
+verify_watcher	ev.c	/^verify_watcher (EV_P_ W w)$/;"	f	file:
+version_major	ev++.h	/^  inline int version_major () throw ()$/;"	f	namespace:ev
+version_minor	ev++.h	/^  inline int version_minor () throw ()$/;"	f	namespace:ev
+w	ev.c	/^    WT w;$/;"	m	struct:__anon7	file:
+w	ev.c	/^  W w;$/;"	m	struct:__anon5	file:
+w	ev.h	/^  struct ev_watcher w;$/;"	m	union:ev_any_watcher	typeref:struct:ev_any_watcher::ev_watcher
+wd	ev.h	/^  int wd; \/* wd for inotify, fd for kqueue *\/$/;"	m	struct:ev_stat
+wl	ev.h	/^  struct ev_watcher_list wl;$/;"	m	union:ev_any_watcher	typeref:struct:ev_any_watcher::ev_watcher_list
+wlist_add	ev.c	/^wlist_add (WL *head, WL elem)$/;"	f
+wlist_del	ev.c	/^wlist_del (WL *head, WL elem)$/;"	f
+~dynamic_loop	ev++.h	/^    ~dynamic_loop () throw ()$/;"	f	struct:ev::dynamic_loop
